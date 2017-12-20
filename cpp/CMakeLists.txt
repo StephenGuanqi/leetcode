@@ -3,5 +3,5 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
-add_executable(cpp ${SOURCE_FILES})
+file(GLOB All_SRC "*.h" "*.cpp")
+add_executable(leetcode_cpp ${All_SRC} MaximumDepthofBinaryTree.cpp)

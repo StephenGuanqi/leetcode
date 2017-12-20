@@ -1,3 +1,3 @@
 /Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles/leetcode_cpp.dir
