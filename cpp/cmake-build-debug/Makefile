@@ -123,86 +123,302 @@ leetcode_cpp/fast:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/build
 .PHONY : leetcode_cpp/fast
 
-MaximumDepthofBinaryTree.o: MaximumDepthofBinaryTree.cpp.o
+bst/BalancedBinaryTree.o: bst/BalancedBinaryTree.cpp.o
 
-.PHONY : MaximumDepthofBinaryTree.o
-
-# target to build an object file
-MaximumDepthofBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/MaximumDepthofBinaryTree.cpp.o
-.PHONY : MaximumDepthofBinaryTree.cpp.o
-
-MaximumDepthofBinaryTree.i: MaximumDepthofBinaryTree.cpp.i
-
-.PHONY : MaximumDepthofBinaryTree.i
-
-# target to preprocess a source file
-MaximumDepthofBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/MaximumDepthofBinaryTree.cpp.i
-.PHONY : MaximumDepthofBinaryTree.cpp.i
-
-MaximumDepthofBinaryTree.s: MaximumDepthofBinaryTree.cpp.s
-
-.PHONY : MaximumDepthofBinaryTree.s
-
-# target to generate assembly for a file
-MaximumDepthofBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/MaximumDepthofBinaryTree.cpp.s
-.PHONY : MaximumDepthofBinaryTree.cpp.s
-
-MinimumAbsoluteDifferenceBST.o: MinimumAbsoluteDifferenceBST.cpp.o
-
-.PHONY : MinimumAbsoluteDifferenceBST.o
+.PHONY : bst/BalancedBinaryTree.o
 
 # target to build an object file
-MinimumAbsoluteDifferenceBST.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/MinimumAbsoluteDifferenceBST.cpp.o
-.PHONY : MinimumAbsoluteDifferenceBST.cpp.o
+bst/BalancedBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o
+.PHONY : bst/BalancedBinaryTree.cpp.o
 
-MinimumAbsoluteDifferenceBST.i: MinimumAbsoluteDifferenceBST.cpp.i
+bst/BalancedBinaryTree.i: bst/BalancedBinaryTree.cpp.i
 
-.PHONY : MinimumAbsoluteDifferenceBST.i
+.PHONY : bst/BalancedBinaryTree.i
 
 # target to preprocess a source file
-MinimumAbsoluteDifferenceBST.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/MinimumAbsoluteDifferenceBST.cpp.i
-.PHONY : MinimumAbsoluteDifferenceBST.cpp.i
+bst/BalancedBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.i
+.PHONY : bst/BalancedBinaryTree.cpp.i
 
-MinimumAbsoluteDifferenceBST.s: MinimumAbsoluteDifferenceBST.cpp.s
+bst/BalancedBinaryTree.s: bst/BalancedBinaryTree.cpp.s
 
-.PHONY : MinimumAbsoluteDifferenceBST.s
+.PHONY : bst/BalancedBinaryTree.s
 
 # target to generate assembly for a file
-MinimumAbsoluteDifferenceBST.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/MinimumAbsoluteDifferenceBST.cpp.s
-.PHONY : MinimumAbsoluteDifferenceBST.cpp.s
+bst/BalancedBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.s
+.PHONY : bst/BalancedBinaryTree.cpp.s
 
-main.o: main.cpp.o
+bst/MinimumAbsoluteDifferenceBST.o: bst/MinimumAbsoluteDifferenceBST.cpp.o
 
-.PHONY : main.o
+.PHONY : bst/MinimumAbsoluteDifferenceBST.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/main.cpp.o
-.PHONY : main.cpp.o
+bst/MinimumAbsoluteDifferenceBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o
+.PHONY : bst/MinimumAbsoluteDifferenceBST.cpp.o
 
-main.i: main.cpp.i
+bst/MinimumAbsoluteDifferenceBST.i: bst/MinimumAbsoluteDifferenceBST.cpp.i
 
-.PHONY : main.i
+.PHONY : bst/MinimumAbsoluteDifferenceBST.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/main.cpp.i
-.PHONY : main.cpp.i
+bst/MinimumAbsoluteDifferenceBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.i
+.PHONY : bst/MinimumAbsoluteDifferenceBST.cpp.i
 
-main.s: main.cpp.s
+bst/MinimumAbsoluteDifferenceBST.s: bst/MinimumAbsoluteDifferenceBST.cpp.s
 
-.PHONY : main.s
+.PHONY : bst/MinimumAbsoluteDifferenceBST.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/main.cpp.s
-.PHONY : main.cpp.s
+bst/MinimumAbsoluteDifferenceBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.s
+.PHONY : bst/MinimumAbsoluteDifferenceBST.cpp.s
+
+bst/ValidateBST.o: bst/ValidateBST.cpp.o
+
+.PHONY : bst/ValidateBST.o
+
+# target to build an object file
+bst/ValidateBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o
+.PHONY : bst/ValidateBST.cpp.o
+
+bst/ValidateBST.i: bst/ValidateBST.cpp.i
+
+.PHONY : bst/ValidateBST.i
+
+# target to preprocess a source file
+bst/ValidateBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.i
+.PHONY : bst/ValidateBST.cpp.i
+
+bst/ValidateBST.s: bst/ValidateBST.cpp.s
+
+.PHONY : bst/ValidateBST.s
+
+# target to generate assembly for a file
+bst/ValidateBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.s
+.PHONY : bst/ValidateBST.cpp.s
+
+heap/KthLargestElemsInArray.o: heap/KthLargestElemsInArray.cpp.o
+
+.PHONY : heap/KthLargestElemsInArray.o
+
+# target to build an object file
+heap/KthLargestElemsInArray.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o
+.PHONY : heap/KthLargestElemsInArray.cpp.o
+
+heap/KthLargestElemsInArray.i: heap/KthLargestElemsInArray.cpp.i
+
+.PHONY : heap/KthLargestElemsInArray.i
+
+# target to preprocess a source file
+heap/KthLargestElemsInArray.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.i
+.PHONY : heap/KthLargestElemsInArray.cpp.i
+
+heap/KthLargestElemsInArray.s: heap/KthLargestElemsInArray.cpp.s
+
+.PHONY : heap/KthLargestElemsInArray.s
+
+# target to generate assembly for a file
+heap/KthLargestElemsInArray.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.s
+.PHONY : heap/KthLargestElemsInArray.cpp.s
+
+heap/MergeKSortedLists.o: heap/MergeKSortedLists.cpp.o
+
+.PHONY : heap/MergeKSortedLists.o
+
+# target to build an object file
+heap/MergeKSortedLists.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o
+.PHONY : heap/MergeKSortedLists.cpp.o
+
+heap/MergeKSortedLists.i: heap/MergeKSortedLists.cpp.i
+
+.PHONY : heap/MergeKSortedLists.i
+
+# target to preprocess a source file
+heap/MergeKSortedLists.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.i
+.PHONY : heap/MergeKSortedLists.cpp.i
+
+heap/MergeKSortedLists.s: heap/MergeKSortedLists.cpp.s
+
+.PHONY : heap/MergeKSortedLists.s
+
+# target to generate assembly for a file
+heap/MergeKSortedLists.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.s
+.PHONY : heap/MergeKSortedLists.cpp.s
+
+tree/BinaryTreeInorderTraversal.o: tree/BinaryTreeInorderTraversal.cpp.o
+
+.PHONY : tree/BinaryTreeInorderTraversal.o
+
+# target to build an object file
+tree/BinaryTreeInorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o
+.PHONY : tree/BinaryTreeInorderTraversal.cpp.o
+
+tree/BinaryTreeInorderTraversal.i: tree/BinaryTreeInorderTraversal.cpp.i
+
+.PHONY : tree/BinaryTreeInorderTraversal.i
+
+# target to preprocess a source file
+tree/BinaryTreeInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.i
+.PHONY : tree/BinaryTreeInorderTraversal.cpp.i
+
+tree/BinaryTreeInorderTraversal.s: tree/BinaryTreeInorderTraversal.cpp.s
+
+.PHONY : tree/BinaryTreeInorderTraversal.s
+
+# target to generate assembly for a file
+tree/BinaryTreeInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.s
+.PHONY : tree/BinaryTreeInorderTraversal.cpp.s
+
+tree/FlattenBinaryTreeToLinkedList.o: tree/FlattenBinaryTreeToLinkedList.cpp.o
+
+.PHONY : tree/FlattenBinaryTreeToLinkedList.o
+
+# target to build an object file
+tree/FlattenBinaryTreeToLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o
+.PHONY : tree/FlattenBinaryTreeToLinkedList.cpp.o
+
+tree/FlattenBinaryTreeToLinkedList.i: tree/FlattenBinaryTreeToLinkedList.cpp.i
+
+.PHONY : tree/FlattenBinaryTreeToLinkedList.i
+
+# target to preprocess a source file
+tree/FlattenBinaryTreeToLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.i
+.PHONY : tree/FlattenBinaryTreeToLinkedList.cpp.i
+
+tree/FlattenBinaryTreeToLinkedList.s: tree/FlattenBinaryTreeToLinkedList.cpp.s
+
+.PHONY : tree/FlattenBinaryTreeToLinkedList.s
+
+# target to generate assembly for a file
+tree/FlattenBinaryTreeToLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.s
+.PHONY : tree/FlattenBinaryTreeToLinkedList.cpp.s
+
+tree/MaximumDepthofBinaryTree.o: tree/MaximumDepthofBinaryTree.cpp.o
+
+.PHONY : tree/MaximumDepthofBinaryTree.o
+
+# target to build an object file
+tree/MaximumDepthofBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.o
+.PHONY : tree/MaximumDepthofBinaryTree.cpp.o
+
+tree/MaximumDepthofBinaryTree.i: tree/MaximumDepthofBinaryTree.cpp.i
+
+.PHONY : tree/MaximumDepthofBinaryTree.i
+
+# target to preprocess a source file
+tree/MaximumDepthofBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.i
+.PHONY : tree/MaximumDepthofBinaryTree.cpp.i
+
+tree/MaximumDepthofBinaryTree.s: tree/MaximumDepthofBinaryTree.cpp.s
+
+.PHONY : tree/MaximumDepthofBinaryTree.s
+
+# target to generate assembly for a file
+tree/MaximumDepthofBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.s
+.PHONY : tree/MaximumDepthofBinaryTree.cpp.s
+
+tree/MergeTwoBinaryTree.o: tree/MergeTwoBinaryTree.cpp.o
+
+.PHONY : tree/MergeTwoBinaryTree.o
+
+# target to build an object file
+tree/MergeTwoBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o
+.PHONY : tree/MergeTwoBinaryTree.cpp.o
+
+tree/MergeTwoBinaryTree.i: tree/MergeTwoBinaryTree.cpp.i
+
+.PHONY : tree/MergeTwoBinaryTree.i
+
+# target to preprocess a source file
+tree/MergeTwoBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.i
+.PHONY : tree/MergeTwoBinaryTree.cpp.i
+
+tree/MergeTwoBinaryTree.s: tree/MergeTwoBinaryTree.cpp.s
+
+.PHONY : tree/MergeTwoBinaryTree.s
+
+# target to generate assembly for a file
+tree/MergeTwoBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.s
+.PHONY : tree/MergeTwoBinaryTree.cpp.s
+
+tree/PreorderTraversal.o: tree/PreorderTraversal.cpp.o
+
+.PHONY : tree/PreorderTraversal.o
+
+# target to build an object file
+tree/PreorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o
+.PHONY : tree/PreorderTraversal.cpp.o
+
+tree/PreorderTraversal.i: tree/PreorderTraversal.cpp.i
+
+.PHONY : tree/PreorderTraversal.i
+
+# target to preprocess a source file
+tree/PreorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.i
+.PHONY : tree/PreorderTraversal.cpp.i
+
+tree/PreorderTraversal.s: tree/PreorderTraversal.cpp.s
+
+.PHONY : tree/PreorderTraversal.s
+
+# target to generate assembly for a file
+tree/PreorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.s
+.PHONY : tree/PreorderTraversal.cpp.s
+
+tree/SerializationDeserializationBT.o: tree/SerializationDeserializationBT.cpp.o
+
+.PHONY : tree/SerializationDeserializationBT.o
+
+# target to build an object file
+tree/SerializationDeserializationBT.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o
+.PHONY : tree/SerializationDeserializationBT.cpp.o
+
+tree/SerializationDeserializationBT.i: tree/SerializationDeserializationBT.cpp.i
+
+.PHONY : tree/SerializationDeserializationBT.i
+
+# target to preprocess a source file
+tree/SerializationDeserializationBT.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.i
+.PHONY : tree/SerializationDeserializationBT.cpp.i
+
+tree/SerializationDeserializationBT.s: tree/SerializationDeserializationBT.cpp.s
+
+.PHONY : tree/SerializationDeserializationBT.s
+
+# target to generate assembly for a file
+tree/SerializationDeserializationBT.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.s
+.PHONY : tree/SerializationDeserializationBT.cpp.s
 
 # Help Target
 help:
@@ -213,15 +429,39 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_cpp"
-	@echo "... MaximumDepthofBinaryTree.o"
-	@echo "... MaximumDepthofBinaryTree.i"
-	@echo "... MaximumDepthofBinaryTree.s"
-	@echo "... MinimumAbsoluteDifferenceBST.o"
-	@echo "... MinimumAbsoluteDifferenceBST.i"
-	@echo "... MinimumAbsoluteDifferenceBST.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... bst/BalancedBinaryTree.o"
+	@echo "... bst/BalancedBinaryTree.i"
+	@echo "... bst/BalancedBinaryTree.s"
+	@echo "... bst/MinimumAbsoluteDifferenceBST.o"
+	@echo "... bst/MinimumAbsoluteDifferenceBST.i"
+	@echo "... bst/MinimumAbsoluteDifferenceBST.s"
+	@echo "... bst/ValidateBST.o"
+	@echo "... bst/ValidateBST.i"
+	@echo "... bst/ValidateBST.s"
+	@echo "... heap/KthLargestElemsInArray.o"
+	@echo "... heap/KthLargestElemsInArray.i"
+	@echo "... heap/KthLargestElemsInArray.s"
+	@echo "... heap/MergeKSortedLists.o"
+	@echo "... heap/MergeKSortedLists.i"
+	@echo "... heap/MergeKSortedLists.s"
+	@echo "... tree/BinaryTreeInorderTraversal.o"
+	@echo "... tree/BinaryTreeInorderTraversal.i"
+	@echo "... tree/BinaryTreeInorderTraversal.s"
+	@echo "... tree/FlattenBinaryTreeToLinkedList.o"
+	@echo "... tree/FlattenBinaryTreeToLinkedList.i"
+	@echo "... tree/FlattenBinaryTreeToLinkedList.s"
+	@echo "... tree/MaximumDepthofBinaryTree.o"
+	@echo "... tree/MaximumDepthofBinaryTree.i"
+	@echo "... tree/MaximumDepthofBinaryTree.s"
+	@echo "... tree/MergeTwoBinaryTree.o"
+	@echo "... tree/MergeTwoBinaryTree.i"
+	@echo "... tree/MergeTwoBinaryTree.s"
+	@echo "... tree/PreorderTraversal.o"
+	@echo "... tree/PreorderTraversal.i"
+	@echo "... tree/PreorderTraversal.s"
+	@echo "... tree/SerializationDeserializationBT.o"
+	@echo "... tree/SerializationDeserializationBT.i"
+	@echo "... tree/SerializationDeserializationBT.s"
 .PHONY : help
 
 

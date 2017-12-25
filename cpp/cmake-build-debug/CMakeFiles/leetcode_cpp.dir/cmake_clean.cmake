@@ -1,7 +1,15 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_cpp.dir/MaximumDepthofBinaryTree.cpp.o"
-  "CMakeFiles/leetcode_cpp.dir/MinimumAbsoluteDifferenceBST.cpp.o"
-  "CMakeFiles/leetcode_cpp.dir/main.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o"
+  "CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o"
   "leetcode_cpp.pdb"
   "leetcode_cpp"
 )

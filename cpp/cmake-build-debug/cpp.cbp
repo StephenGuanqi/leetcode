@@ -80,13 +80,37 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/MaximumDepthofBinaryTree.cpp">
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/BalancedBinaryTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/MinimumAbsoluteDifferenceBST.cpp">
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/MinimumAbsoluteDifferenceBST.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/main.cpp">
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/ValidateBST.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/KthLargestElemsInArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/MergeKSortedLists.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeInorderTraversal.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/FlattenBinaryTreeToLinkedList.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/MaximumDepthofBinaryTree.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/MergeTwoBinaryTree.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/PreorderTraversal.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/SerializationDeserializationBT.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/CMakeLists.txt">
