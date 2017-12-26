@@ -150,6 +150,33 @@ bst/BalancedBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.s
 .PHONY : bst/BalancedBinaryTree.cpp.s
 
+bst/KthSmallestEleminBST.o: bst/KthSmallestEleminBST.cpp.o
+
+.PHONY : bst/KthSmallestEleminBST.o
+
+# target to build an object file
+bst/KthSmallestEleminBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o
+.PHONY : bst/KthSmallestEleminBST.cpp.o
+
+bst/KthSmallestEleminBST.i: bst/KthSmallestEleminBST.cpp.i
+
+.PHONY : bst/KthSmallestEleminBST.i
+
+# target to preprocess a source file
+bst/KthSmallestEleminBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.i
+.PHONY : bst/KthSmallestEleminBST.cpp.i
+
+bst/KthSmallestEleminBST.s: bst/KthSmallestEleminBST.cpp.s
+
+.PHONY : bst/KthSmallestEleminBST.s
+
+# target to generate assembly for a file
+bst/KthSmallestEleminBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.s
+.PHONY : bst/KthSmallestEleminBST.cpp.s
+
 bst/MinimumAbsoluteDifferenceBST.o: bst/MinimumAbsoluteDifferenceBST.cpp.o
 
 .PHONY : bst/MinimumAbsoluteDifferenceBST.o
@@ -285,6 +312,33 @@ tree/BinaryTreeInorderTraversal.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.s
 .PHONY : tree/BinaryTreeInorderTraversal.cpp.s
 
+tree/BinaryTreeLongestConsequtiveSequence.o: tree/BinaryTreeLongestConsequtiveSequence.cpp.o
+
+.PHONY : tree/BinaryTreeLongestConsequtiveSequence.o
+
+# target to build an object file
+tree/BinaryTreeLongestConsequtiveSequence.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o
+.PHONY : tree/BinaryTreeLongestConsequtiveSequence.cpp.o
+
+tree/BinaryTreeLongestConsequtiveSequence.i: tree/BinaryTreeLongestConsequtiveSequence.cpp.i
+
+.PHONY : tree/BinaryTreeLongestConsequtiveSequence.i
+
+# target to preprocess a source file
+tree/BinaryTreeLongestConsequtiveSequence.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.i
+.PHONY : tree/BinaryTreeLongestConsequtiveSequence.cpp.i
+
+tree/BinaryTreeLongestConsequtiveSequence.s: tree/BinaryTreeLongestConsequtiveSequence.cpp.s
+
+.PHONY : tree/BinaryTreeLongestConsequtiveSequence.s
+
+# target to generate assembly for a file
+tree/BinaryTreeLongestConsequtiveSequence.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.s
+.PHONY : tree/BinaryTreeLongestConsequtiveSequence.cpp.s
+
 tree/FlattenBinaryTreeToLinkedList.o: tree/FlattenBinaryTreeToLinkedList.cpp.o
 
 .PHONY : tree/FlattenBinaryTreeToLinkedList.o
@@ -311,6 +365,33 @@ tree/FlattenBinaryTreeToLinkedList.s: tree/FlattenBinaryTreeToLinkedList.cpp.s
 tree/FlattenBinaryTreeToLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.s
 .PHONY : tree/FlattenBinaryTreeToLinkedList.cpp.s
+
+tree/LowestCommonAncestor.o: tree/LowestCommonAncestor.cpp.o
+
+.PHONY : tree/LowestCommonAncestor.o
+
+# target to build an object file
+tree/LowestCommonAncestor.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.o
+.PHONY : tree/LowestCommonAncestor.cpp.o
+
+tree/LowestCommonAncestor.i: tree/LowestCommonAncestor.cpp.i
+
+.PHONY : tree/LowestCommonAncestor.i
+
+# target to preprocess a source file
+tree/LowestCommonAncestor.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.i
+.PHONY : tree/LowestCommonAncestor.cpp.i
+
+tree/LowestCommonAncestor.s: tree/LowestCommonAncestor.cpp.s
+
+.PHONY : tree/LowestCommonAncestor.s
+
+# target to generate assembly for a file
+tree/LowestCommonAncestor.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.s
+.PHONY : tree/LowestCommonAncestor.cpp.s
 
 tree/MaximumDepthofBinaryTree.o: tree/MaximumDepthofBinaryTree.cpp.o
 
@@ -365,6 +446,33 @@ tree/MergeTwoBinaryTree.s: tree/MergeTwoBinaryTree.cpp.s
 tree/MergeTwoBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.s
 .PHONY : tree/MergeTwoBinaryTree.cpp.s
+
+tree/PostorderTraversal.o: tree/PostorderTraversal.cpp.o
+
+.PHONY : tree/PostorderTraversal.o
+
+# target to build an object file
+tree/PostorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o
+.PHONY : tree/PostorderTraversal.cpp.o
+
+tree/PostorderTraversal.i: tree/PostorderTraversal.cpp.i
+
+.PHONY : tree/PostorderTraversal.i
+
+# target to preprocess a source file
+tree/PostorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.i
+.PHONY : tree/PostorderTraversal.cpp.i
+
+tree/PostorderTraversal.s: tree/PostorderTraversal.cpp.s
+
+.PHONY : tree/PostorderTraversal.s
+
+# target to generate assembly for a file
+tree/PostorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.s
+.PHONY : tree/PostorderTraversal.cpp.s
 
 tree/PreorderTraversal.o: tree/PreorderTraversal.cpp.o
 
@@ -432,6 +540,9 @@ help:
 	@echo "... bst/BalancedBinaryTree.o"
 	@echo "... bst/BalancedBinaryTree.i"
 	@echo "... bst/BalancedBinaryTree.s"
+	@echo "... bst/KthSmallestEleminBST.o"
+	@echo "... bst/KthSmallestEleminBST.i"
+	@echo "... bst/KthSmallestEleminBST.s"
 	@echo "... bst/MinimumAbsoluteDifferenceBST.o"
 	@echo "... bst/MinimumAbsoluteDifferenceBST.i"
 	@echo "... bst/MinimumAbsoluteDifferenceBST.s"
@@ -447,15 +558,24 @@ help:
 	@echo "... tree/BinaryTreeInorderTraversal.o"
 	@echo "... tree/BinaryTreeInorderTraversal.i"
 	@echo "... tree/BinaryTreeInorderTraversal.s"
+	@echo "... tree/BinaryTreeLongestConsequtiveSequence.o"
+	@echo "... tree/BinaryTreeLongestConsequtiveSequence.i"
+	@echo "... tree/BinaryTreeLongestConsequtiveSequence.s"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.o"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.i"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.s"
+	@echo "... tree/LowestCommonAncestor.o"
+	@echo "... tree/LowestCommonAncestor.i"
+	@echo "... tree/LowestCommonAncestor.s"
 	@echo "... tree/MaximumDepthofBinaryTree.o"
 	@echo "... tree/MaximumDepthofBinaryTree.i"
 	@echo "... tree/MaximumDepthofBinaryTree.s"
 	@echo "... tree/MergeTwoBinaryTree.o"
 	@echo "... tree/MergeTwoBinaryTree.i"
 	@echo "... tree/MergeTwoBinaryTree.s"
+	@echo "... tree/PostorderTraversal.o"
+	@echo "... tree/PostorderTraversal.i"
+	@echo "... tree/PostorderTraversal.s"
 	@echo "... tree/PreorderTraversal.o"
 	@echo "... tree/PreorderTraversal.i"
 	@echo "... tree/PreorderTraversal.s"

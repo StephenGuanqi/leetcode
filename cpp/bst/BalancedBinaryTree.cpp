@@ -34,25 +34,25 @@ public:
         return abs(left - right) <= 1 && isBalanced(root->left) && isBalanced(root->right);
     }
 
+};
 
+class Solution2 {
+public:
+    bool isBalanced(TreeNode* root) {
+        return checkBalanced(root).first;
+    }
 
-// public:
-//     bool isBalanced(TreeNode* root) {
-//         return checkBalanced(root).first;
-//     }
-
-// private:
-//     pair<bool, int> checkBalanced(TreeNode *root) {
-//         if (root == nullptr)    return make_pair(true, 0);
-//         pair<bool, int> left_result = checkBalanced(root->left);
-//         pair<bool, int> right_result = checkBalanced(root->right);
-//         // check balanced
-//         if (!left_result.first || !right_result.first)
-//             return make_pair(false, -1);
-//         // check height
-//         if (abs(left_result.second - right_result.second) > 1)
-//             return make_pair(false, -1);
-//         return make_pair(true, max(left_result.second, right_result.second) + 1);
-//     }
-
+private:
+    pair<bool, int> checkBalanced(TreeNode *root) {
+        if (root == nullptr)    return make_pair(true, 0);
+        pair<bool, int> left_result = checkBalanced(root->left);
+        pair<bool, int> right_result = checkBalanced(root->right);
+        // check balanced
+        if (!left_result.first || !right_result.first)
+            return make_pair(false, -1);
+        // check height
+        if (abs(left_result.second - right_result.second) > 1)
+            return make_pair(false, -1);
+        return make_pair(true, max(left_result.second, right_result.second) + 1);
+    }
 };

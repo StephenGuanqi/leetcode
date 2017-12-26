@@ -11,6 +11,8 @@
  * divide and conquer: result type
  * traversal: parameter, in-order, pre-order   (daleitai or na ben ji)
  *
+ * And also think about the data augmentation
+ *
  */
 
 #include <iostream>
@@ -36,7 +38,7 @@ struct TreeNode {
 };
 
 class Solution {
-
+	// traverse
 public:
 	bool isValidBST(TreeNode* root) {
 		TreeNode* prev = NULL;
@@ -54,7 +56,7 @@ public:
 };
 
 class Solution2 {
-
+	// divide and conquer
 public:
 	bool isValidBST(TreeNode* root) {
 		return isValidBST(root, nullptr, nullptr); // root node has no min and max limit
@@ -72,6 +74,30 @@ public:
 			return false;
 		return isValidBST(root->left, minNode, root) &&
 		       isValidBST(root->right, root, maxNode);
+	}
+
+};
+
+class Solution3 {
+	// non-recursive
+public:
+	bool isValidBST(TreeNode* root) {
+		stack<TreeNode*> st;
+		TreeNode *current = root;
+		TreeNode *lastNode = nullptr;
+		while (current != nullptr || !st.empty()) {
+			while (current != nullptr) {
+				st.push(current);
+				current = current->left;
+			}
+			current = st.top();
+			st.pop();
+			if (lastNode != nullptr && lastNode->val >= current->val)
+				return false;
+			lastNode = current;
+			current = current->right;
+		}
+		return true;
 	}
 
 };

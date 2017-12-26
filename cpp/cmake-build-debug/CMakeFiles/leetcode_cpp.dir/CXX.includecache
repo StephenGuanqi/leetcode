@@ -18,6 +18,18 @@ queue
 stack
 -
 
+/Users/guanqiy/workspace/leetcode/cpp/bst/KthSmallestEleminBST.cpp
+iostream
+-
+algorithm
+-
+sstream
+-
+queue
+-
+stack
+-
+
 /Users/guanqiy/workspace/leetcode/cpp/bst/MinimumAbsoluteDifferenceBST.cpp
 iostream
 -
@@ -25,6 +37,16 @@ algorithm
 -
 
 /Users/guanqiy/workspace/leetcode/cpp/bst/ValidateBST.cpp
+iostream
+-
+algorithm
+-
+sstream
+-
+queue
+-
+stack
+-
 
 /Users/guanqiy/workspace/leetcode/cpp/heap/KthLargestElemsInArray.cpp
 iostream
@@ -66,6 +88,18 @@ queue
 stack
 -
 
+/Users/guanqiy/workspace/leetcode/cpp/tree/LowestCommonAncestor.cpp
+iostream
+-
+algorithm
+-
+sstream
+-
+queue
+-
+stack
+-
+
 /Users/guanqiy/workspace/leetcode/cpp/tree/MaximumDepthofBinaryTree.cpp
 iostream
 -
@@ -82,6 +116,20 @@ algorithm
 sstream
 -
 queue
+-
+
+/Users/guanqiy/workspace/leetcode/cpp/tree/PostorderTraversal.cpp
+
+/Users/guanqiy/workspace/leetcode/cpp/tree/PreorderTraversal.cpp
+iostream
+-
+algorithm
+-
+sstream
+-
+queue
+-
+stack
 -
 
 /Users/guanqiy/workspace/leetcode/cpp/tree/SerializationDeserializationBT.cpp

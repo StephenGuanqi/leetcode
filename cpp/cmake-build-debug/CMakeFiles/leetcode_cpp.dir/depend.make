@@ -3,6 +3,8 @@
 
 CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o: ../bst/BalancedBinaryTree.cpp
 
+CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o: ../bst/KthSmallestEleminBST.cpp
+
 CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o: ../bst/MinimumAbsoluteDifferenceBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o: ../bst/ValidateBST.cpp
@@ -15,9 +17,15 @@ CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o: ../tree/Binar
 
 CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o: ../tree/FlattenBinaryTreeToLinkedList.cpp
 
+CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.o: ../tree/LowestCommonAncestor.cpp
+
 CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.o: ../tree/MaximumDepthofBinaryTree.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o: ../tree/MergeTwoBinaryTree.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o: ../tree/PostorderTraversal.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o: ../tree/PreorderTraversal.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o: ../tree/SerializationDeserializationBT.cpp
 

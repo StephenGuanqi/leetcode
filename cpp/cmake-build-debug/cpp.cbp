@@ -83,6 +83,9 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/BalancedBinaryTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/KthSmallestEleminBST.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/MinimumAbsoluteDifferenceBST.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
@@ -98,13 +101,22 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeInorderTraversal.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeLongestConsequtiveSequence.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/FlattenBinaryTreeToLinkedList.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/LowestCommonAncestor.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/MaximumDepthofBinaryTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/MergeTwoBinaryTree.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/PostorderTraversal.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/PreorderTraversal.cpp">
