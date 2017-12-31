@@ -3,17 +3,43 @@
 
 CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o: ../bst/BalancedBinaryTree.cpp
 
+CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o: ../bst/ContainsDuplicateII.cpp
+
 CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o: ../bst/KthSmallestEleminBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o: ../bst/MinimumAbsoluteDifferenceBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o: ../bst/ValidateBST.cpp
 
+CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o: ../design/LFUCache.cpp
+
+CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o: ../design/LRUCache.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o: ../graph/CloneGraph.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.o: ../graph/CourseScheduleI.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.o: ../graph/CourseScheduleII.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o: ../graph/GraphValidTree.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.o: ../graph/NumberOfIslands.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.o: ../graph/ZombieInMatrix.cpp
+
 CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o: ../heap/KthLargestElemsInArray.cpp
 
 CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o: ../heap/MergeKSortedLists.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o: ../tree/BinaryTreeInorderTraversal.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o: ../tree/BinaryTreeLongestConsequtiveSequence.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o: ../tree/BinaryTreeLongestConsequtiveSequenceII.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o: ../tree/ConvertSingleLinkedListToBST.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o: ../tree/ConvertSortedArrayToBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o: ../tree/FlattenBinaryTreeToLinkedList.cpp
 

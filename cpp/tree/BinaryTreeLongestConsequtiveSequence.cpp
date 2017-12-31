@@ -21,6 +21,7 @@ struct TreeNode {
 class Solution {
 	/**
 	 * DFS + daleitai
+	 * From root to leaves path ---> pre-order traversal
 	 */
 public:
 	int longestConsecutive(TreeNode* root) {

@@ -150,6 +150,33 @@ bst/BalancedBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.s
 .PHONY : bst/BalancedBinaryTree.cpp.s
 
+bst/ContainsDuplicateII.o: bst/ContainsDuplicateII.cpp.o
+
+.PHONY : bst/ContainsDuplicateII.o
+
+# target to build an object file
+bst/ContainsDuplicateII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o
+.PHONY : bst/ContainsDuplicateII.cpp.o
+
+bst/ContainsDuplicateII.i: bst/ContainsDuplicateII.cpp.i
+
+.PHONY : bst/ContainsDuplicateII.i
+
+# target to preprocess a source file
+bst/ContainsDuplicateII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.i
+.PHONY : bst/ContainsDuplicateII.cpp.i
+
+bst/ContainsDuplicateII.s: bst/ContainsDuplicateII.cpp.s
+
+.PHONY : bst/ContainsDuplicateII.s
+
+# target to generate assembly for a file
+bst/ContainsDuplicateII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.s
+.PHONY : bst/ContainsDuplicateII.cpp.s
+
 bst/KthSmallestEleminBST.o: bst/KthSmallestEleminBST.cpp.o
 
 .PHONY : bst/KthSmallestEleminBST.o
@@ -230,6 +257,222 @@ bst/ValidateBST.s: bst/ValidateBST.cpp.s
 bst/ValidateBST.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.s
 .PHONY : bst/ValidateBST.cpp.s
+
+design/LFUCache.o: design/LFUCache.cpp.o
+
+.PHONY : design/LFUCache.o
+
+# target to build an object file
+design/LFUCache.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o
+.PHONY : design/LFUCache.cpp.o
+
+design/LFUCache.i: design/LFUCache.cpp.i
+
+.PHONY : design/LFUCache.i
+
+# target to preprocess a source file
+design/LFUCache.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.i
+.PHONY : design/LFUCache.cpp.i
+
+design/LFUCache.s: design/LFUCache.cpp.s
+
+.PHONY : design/LFUCache.s
+
+# target to generate assembly for a file
+design/LFUCache.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.s
+.PHONY : design/LFUCache.cpp.s
+
+design/LRUCache.o: design/LRUCache.cpp.o
+
+.PHONY : design/LRUCache.o
+
+# target to build an object file
+design/LRUCache.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o
+.PHONY : design/LRUCache.cpp.o
+
+design/LRUCache.i: design/LRUCache.cpp.i
+
+.PHONY : design/LRUCache.i
+
+# target to preprocess a source file
+design/LRUCache.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.i
+.PHONY : design/LRUCache.cpp.i
+
+design/LRUCache.s: design/LRUCache.cpp.s
+
+.PHONY : design/LRUCache.s
+
+# target to generate assembly for a file
+design/LRUCache.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.s
+.PHONY : design/LRUCache.cpp.s
+
+graph/CloneGraph.o: graph/CloneGraph.cpp.o
+
+.PHONY : graph/CloneGraph.o
+
+# target to build an object file
+graph/CloneGraph.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o
+.PHONY : graph/CloneGraph.cpp.o
+
+graph/CloneGraph.i: graph/CloneGraph.cpp.i
+
+.PHONY : graph/CloneGraph.i
+
+# target to preprocess a source file
+graph/CloneGraph.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.i
+.PHONY : graph/CloneGraph.cpp.i
+
+graph/CloneGraph.s: graph/CloneGraph.cpp.s
+
+.PHONY : graph/CloneGraph.s
+
+# target to generate assembly for a file
+graph/CloneGraph.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.s
+.PHONY : graph/CloneGraph.cpp.s
+
+graph/CourseScheduleI.o: graph/CourseScheduleI.cpp.o
+
+.PHONY : graph/CourseScheduleI.o
+
+# target to build an object file
+graph/CourseScheduleI.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.o
+.PHONY : graph/CourseScheduleI.cpp.o
+
+graph/CourseScheduleI.i: graph/CourseScheduleI.cpp.i
+
+.PHONY : graph/CourseScheduleI.i
+
+# target to preprocess a source file
+graph/CourseScheduleI.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.i
+.PHONY : graph/CourseScheduleI.cpp.i
+
+graph/CourseScheduleI.s: graph/CourseScheduleI.cpp.s
+
+.PHONY : graph/CourseScheduleI.s
+
+# target to generate assembly for a file
+graph/CourseScheduleI.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.s
+.PHONY : graph/CourseScheduleI.cpp.s
+
+graph/CourseScheduleII.o: graph/CourseScheduleII.cpp.o
+
+.PHONY : graph/CourseScheduleII.o
+
+# target to build an object file
+graph/CourseScheduleII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.o
+.PHONY : graph/CourseScheduleII.cpp.o
+
+graph/CourseScheduleII.i: graph/CourseScheduleII.cpp.i
+
+.PHONY : graph/CourseScheduleII.i
+
+# target to preprocess a source file
+graph/CourseScheduleII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.i
+.PHONY : graph/CourseScheduleII.cpp.i
+
+graph/CourseScheduleII.s: graph/CourseScheduleII.cpp.s
+
+.PHONY : graph/CourseScheduleII.s
+
+# target to generate assembly for a file
+graph/CourseScheduleII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.s
+.PHONY : graph/CourseScheduleII.cpp.s
+
+graph/GraphValidTree.o: graph/GraphValidTree.cpp.o
+
+.PHONY : graph/GraphValidTree.o
+
+# target to build an object file
+graph/GraphValidTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o
+.PHONY : graph/GraphValidTree.cpp.o
+
+graph/GraphValidTree.i: graph/GraphValidTree.cpp.i
+
+.PHONY : graph/GraphValidTree.i
+
+# target to preprocess a source file
+graph/GraphValidTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.i
+.PHONY : graph/GraphValidTree.cpp.i
+
+graph/GraphValidTree.s: graph/GraphValidTree.cpp.s
+
+.PHONY : graph/GraphValidTree.s
+
+# target to generate assembly for a file
+graph/GraphValidTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.s
+.PHONY : graph/GraphValidTree.cpp.s
+
+graph/NumberOfIslands.o: graph/NumberOfIslands.cpp.o
+
+.PHONY : graph/NumberOfIslands.o
+
+# target to build an object file
+graph/NumberOfIslands.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.o
+.PHONY : graph/NumberOfIslands.cpp.o
+
+graph/NumberOfIslands.i: graph/NumberOfIslands.cpp.i
+
+.PHONY : graph/NumberOfIslands.i
+
+# target to preprocess a source file
+graph/NumberOfIslands.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.i
+.PHONY : graph/NumberOfIslands.cpp.i
+
+graph/NumberOfIslands.s: graph/NumberOfIslands.cpp.s
+
+.PHONY : graph/NumberOfIslands.s
+
+# target to generate assembly for a file
+graph/NumberOfIslands.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.s
+.PHONY : graph/NumberOfIslands.cpp.s
+
+graph/ZombieInMatrix.o: graph/ZombieInMatrix.cpp.o
+
+.PHONY : graph/ZombieInMatrix.o
+
+# target to build an object file
+graph/ZombieInMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.o
+.PHONY : graph/ZombieInMatrix.cpp.o
+
+graph/ZombieInMatrix.i: graph/ZombieInMatrix.cpp.i
+
+.PHONY : graph/ZombieInMatrix.i
+
+# target to preprocess a source file
+graph/ZombieInMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.i
+.PHONY : graph/ZombieInMatrix.cpp.i
+
+graph/ZombieInMatrix.s: graph/ZombieInMatrix.cpp.s
+
+.PHONY : graph/ZombieInMatrix.s
+
+# target to generate assembly for a file
+graph/ZombieInMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.s
+.PHONY : graph/ZombieInMatrix.cpp.s
 
 heap/KthLargestElemsInArray.o: heap/KthLargestElemsInArray.cpp.o
 
@@ -338,6 +581,87 @@ tree/BinaryTreeLongestConsequtiveSequence.s: tree/BinaryTreeLongestConsequtiveSe
 tree/BinaryTreeLongestConsequtiveSequence.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.s
 .PHONY : tree/BinaryTreeLongestConsequtiveSequence.cpp.s
+
+tree/BinaryTreeLongestConsequtiveSequenceII.o: tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o
+
+.PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.o
+
+# target to build an object file
+tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o
+.PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o
+
+tree/BinaryTreeLongestConsequtiveSequenceII.i: tree/BinaryTreeLongestConsequtiveSequenceII.cpp.i
+
+.PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.i
+
+# target to preprocess a source file
+tree/BinaryTreeLongestConsequtiveSequenceII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.i
+.PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.cpp.i
+
+tree/BinaryTreeLongestConsequtiveSequenceII.s: tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s
+
+.PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.s
+
+# target to generate assembly for a file
+tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s
+.PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s
+
+tree/ConvertSingleLinkedListToBST.o: tree/ConvertSingleLinkedListToBST.cpp.o
+
+.PHONY : tree/ConvertSingleLinkedListToBST.o
+
+# target to build an object file
+tree/ConvertSingleLinkedListToBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o
+.PHONY : tree/ConvertSingleLinkedListToBST.cpp.o
+
+tree/ConvertSingleLinkedListToBST.i: tree/ConvertSingleLinkedListToBST.cpp.i
+
+.PHONY : tree/ConvertSingleLinkedListToBST.i
+
+# target to preprocess a source file
+tree/ConvertSingleLinkedListToBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.i
+.PHONY : tree/ConvertSingleLinkedListToBST.cpp.i
+
+tree/ConvertSingleLinkedListToBST.s: tree/ConvertSingleLinkedListToBST.cpp.s
+
+.PHONY : tree/ConvertSingleLinkedListToBST.s
+
+# target to generate assembly for a file
+tree/ConvertSingleLinkedListToBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.s
+.PHONY : tree/ConvertSingleLinkedListToBST.cpp.s
+
+tree/ConvertSortedArrayToBST.o: tree/ConvertSortedArrayToBST.cpp.o
+
+.PHONY : tree/ConvertSortedArrayToBST.o
+
+# target to build an object file
+tree/ConvertSortedArrayToBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o
+.PHONY : tree/ConvertSortedArrayToBST.cpp.o
+
+tree/ConvertSortedArrayToBST.i: tree/ConvertSortedArrayToBST.cpp.i
+
+.PHONY : tree/ConvertSortedArrayToBST.i
+
+# target to preprocess a source file
+tree/ConvertSortedArrayToBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.i
+.PHONY : tree/ConvertSortedArrayToBST.cpp.i
+
+tree/ConvertSortedArrayToBST.s: tree/ConvertSortedArrayToBST.cpp.s
+
+.PHONY : tree/ConvertSortedArrayToBST.s
+
+# target to generate assembly for a file
+tree/ConvertSortedArrayToBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.s
+.PHONY : tree/ConvertSortedArrayToBST.cpp.s
 
 tree/FlattenBinaryTreeToLinkedList.o: tree/FlattenBinaryTreeToLinkedList.cpp.o
 
@@ -540,6 +864,9 @@ help:
 	@echo "... bst/BalancedBinaryTree.o"
 	@echo "... bst/BalancedBinaryTree.i"
 	@echo "... bst/BalancedBinaryTree.s"
+	@echo "... bst/ContainsDuplicateII.o"
+	@echo "... bst/ContainsDuplicateII.i"
+	@echo "... bst/ContainsDuplicateII.s"
 	@echo "... bst/KthSmallestEleminBST.o"
 	@echo "... bst/KthSmallestEleminBST.i"
 	@echo "... bst/KthSmallestEleminBST.s"
@@ -549,6 +876,30 @@ help:
 	@echo "... bst/ValidateBST.o"
 	@echo "... bst/ValidateBST.i"
 	@echo "... bst/ValidateBST.s"
+	@echo "... design/LFUCache.o"
+	@echo "... design/LFUCache.i"
+	@echo "... design/LFUCache.s"
+	@echo "... design/LRUCache.o"
+	@echo "... design/LRUCache.i"
+	@echo "... design/LRUCache.s"
+	@echo "... graph/CloneGraph.o"
+	@echo "... graph/CloneGraph.i"
+	@echo "... graph/CloneGraph.s"
+	@echo "... graph/CourseScheduleI.o"
+	@echo "... graph/CourseScheduleI.i"
+	@echo "... graph/CourseScheduleI.s"
+	@echo "... graph/CourseScheduleII.o"
+	@echo "... graph/CourseScheduleII.i"
+	@echo "... graph/CourseScheduleII.s"
+	@echo "... graph/GraphValidTree.o"
+	@echo "... graph/GraphValidTree.i"
+	@echo "... graph/GraphValidTree.s"
+	@echo "... graph/NumberOfIslands.o"
+	@echo "... graph/NumberOfIslands.i"
+	@echo "... graph/NumberOfIslands.s"
+	@echo "... graph/ZombieInMatrix.o"
+	@echo "... graph/ZombieInMatrix.i"
+	@echo "... graph/ZombieInMatrix.s"
 	@echo "... heap/KthLargestElemsInArray.o"
 	@echo "... heap/KthLargestElemsInArray.i"
 	@echo "... heap/KthLargestElemsInArray.s"
@@ -561,6 +912,15 @@ help:
 	@echo "... tree/BinaryTreeLongestConsequtiveSequence.o"
 	@echo "... tree/BinaryTreeLongestConsequtiveSequence.i"
 	@echo "... tree/BinaryTreeLongestConsequtiveSequence.s"
+	@echo "... tree/BinaryTreeLongestConsequtiveSequenceII.o"
+	@echo "... tree/BinaryTreeLongestConsequtiveSequenceII.i"
+	@echo "... tree/BinaryTreeLongestConsequtiveSequenceII.s"
+	@echo "... tree/ConvertSingleLinkedListToBST.o"
+	@echo "... tree/ConvertSingleLinkedListToBST.i"
+	@echo "... tree/ConvertSingleLinkedListToBST.s"
+	@echo "... tree/ConvertSortedArrayToBST.o"
+	@echo "... tree/ConvertSortedArrayToBST.i"
+	@echo "... tree/ConvertSortedArrayToBST.s"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.o"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.i"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.s"

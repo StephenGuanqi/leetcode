@@ -84,7 +84,7 @@ public:
 			if (node->left != nullptr)   st.push(node->left);
 			// flatten
 			node->left = nullptr;
-			if (st.empty()) // check stack's empry on the last element in stack (right most on tree)
+			if (st.empty()) // check stack's empty on the last element in stack (right most on tree)
 				node->right = nullptr;
 			else
 				node->right = st.top();

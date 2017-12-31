@@ -83,6 +83,9 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/BalancedBinaryTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/ContainsDuplicateII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/KthSmallestEleminBST.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
@@ -90,6 +93,30 @@
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/ValidateBST.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/LFUCache.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/LRUCache.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CloneGraph.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CourseScheduleI.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CourseScheduleII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/GraphValidTree.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/NumberOfIslands.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/ZombieInMatrix.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/KthLargestElemsInArray.cpp">
@@ -102,6 +129,15 @@
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeLongestConsequtiveSequence.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeLongestConsequtiveSequenceII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSingleLinkedListToBST.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSortedArrayToBST.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/FlattenBinaryTreeToLinkedList.cpp">
