@@ -123,6 +123,276 @@ leetcode_cpp/fast:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/build
 .PHONY : leetcode_cpp/fast
 
+array/IntersectionOfTwoArrays.o: array/IntersectionOfTwoArrays.cpp.o
+
+.PHONY : array/IntersectionOfTwoArrays.o
+
+# target to build an object file
+array/IntersectionOfTwoArrays.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o
+.PHONY : array/IntersectionOfTwoArrays.cpp.o
+
+array/IntersectionOfTwoArrays.i: array/IntersectionOfTwoArrays.cpp.i
+
+.PHONY : array/IntersectionOfTwoArrays.i
+
+# target to preprocess a source file
+array/IntersectionOfTwoArrays.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.i
+.PHONY : array/IntersectionOfTwoArrays.cpp.i
+
+array/IntersectionOfTwoArrays.s: array/IntersectionOfTwoArrays.cpp.s
+
+.PHONY : array/IntersectionOfTwoArrays.s
+
+# target to generate assembly for a file
+array/IntersectionOfTwoArrays.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.s
+.PHONY : array/IntersectionOfTwoArrays.cpp.s
+
+array/MedianofTwoSortedArray.o: array/MedianofTwoSortedArray.cpp.o
+
+.PHONY : array/MedianofTwoSortedArray.o
+
+# target to build an object file
+array/MedianofTwoSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o
+.PHONY : array/MedianofTwoSortedArray.cpp.o
+
+array/MedianofTwoSortedArray.i: array/MedianofTwoSortedArray.cpp.i
+
+.PHONY : array/MedianofTwoSortedArray.i
+
+# target to preprocess a source file
+array/MedianofTwoSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.i
+.PHONY : array/MedianofTwoSortedArray.cpp.i
+
+array/MedianofTwoSortedArray.s: array/MedianofTwoSortedArray.cpp.s
+
+.PHONY : array/MedianofTwoSortedArray.s
+
+# target to generate assembly for a file
+array/MedianofTwoSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.s
+.PHONY : array/MedianofTwoSortedArray.cpp.s
+
+bfs/BuildPostOfficeII.o: bfs/BuildPostOfficeII.cpp.o
+
+.PHONY : bfs/BuildPostOfficeII.o
+
+# target to build an object file
+bfs/BuildPostOfficeII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o
+.PHONY : bfs/BuildPostOfficeII.cpp.o
+
+bfs/BuildPostOfficeII.i: bfs/BuildPostOfficeII.cpp.i
+
+.PHONY : bfs/BuildPostOfficeII.i
+
+# target to preprocess a source file
+bfs/BuildPostOfficeII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.i
+.PHONY : bfs/BuildPostOfficeII.cpp.i
+
+bfs/BuildPostOfficeII.s: bfs/BuildPostOfficeII.cpp.s
+
+.PHONY : bfs/BuildPostOfficeII.s
+
+# target to generate assembly for a file
+bfs/BuildPostOfficeII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.s
+.PHONY : bfs/BuildPostOfficeII.cpp.s
+
+bfs/CourseScheduleI.o: bfs/CourseScheduleI.cpp.o
+
+.PHONY : bfs/CourseScheduleI.o
+
+# target to build an object file
+bfs/CourseScheduleI.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o
+.PHONY : bfs/CourseScheduleI.cpp.o
+
+bfs/CourseScheduleI.i: bfs/CourseScheduleI.cpp.i
+
+.PHONY : bfs/CourseScheduleI.i
+
+# target to preprocess a source file
+bfs/CourseScheduleI.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.i
+.PHONY : bfs/CourseScheduleI.cpp.i
+
+bfs/CourseScheduleI.s: bfs/CourseScheduleI.cpp.s
+
+.PHONY : bfs/CourseScheduleI.s
+
+# target to generate assembly for a file
+bfs/CourseScheduleI.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.s
+.PHONY : bfs/CourseScheduleI.cpp.s
+
+bfs/CourseScheduleII.o: bfs/CourseScheduleII.cpp.o
+
+.PHONY : bfs/CourseScheduleII.o
+
+# target to build an object file
+bfs/CourseScheduleII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o
+.PHONY : bfs/CourseScheduleII.cpp.o
+
+bfs/CourseScheduleII.i: bfs/CourseScheduleII.cpp.i
+
+.PHONY : bfs/CourseScheduleII.i
+
+# target to preprocess a source file
+bfs/CourseScheduleII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.i
+.PHONY : bfs/CourseScheduleII.cpp.i
+
+bfs/CourseScheduleII.s: bfs/CourseScheduleII.cpp.s
+
+.PHONY : bfs/CourseScheduleII.s
+
+# target to generate assembly for a file
+bfs/CourseScheduleII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.s
+.PHONY : bfs/CourseScheduleII.cpp.s
+
+bfs/KnightShortestPath.o: bfs/KnightShortestPath.cpp.o
+
+.PHONY : bfs/KnightShortestPath.o
+
+# target to build an object file
+bfs/KnightShortestPath.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o
+.PHONY : bfs/KnightShortestPath.cpp.o
+
+bfs/KnightShortestPath.i: bfs/KnightShortestPath.cpp.i
+
+.PHONY : bfs/KnightShortestPath.i
+
+# target to preprocess a source file
+bfs/KnightShortestPath.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.i
+.PHONY : bfs/KnightShortestPath.cpp.i
+
+bfs/KnightShortestPath.s: bfs/KnightShortestPath.cpp.s
+
+.PHONY : bfs/KnightShortestPath.s
+
+# target to generate assembly for a file
+bfs/KnightShortestPath.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.s
+.PHONY : bfs/KnightShortestPath.cpp.s
+
+bfs/NumberOfIslands.o: bfs/NumberOfIslands.cpp.o
+
+.PHONY : bfs/NumberOfIslands.o
+
+# target to build an object file
+bfs/NumberOfIslands.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o
+.PHONY : bfs/NumberOfIslands.cpp.o
+
+bfs/NumberOfIslands.i: bfs/NumberOfIslands.cpp.i
+
+.PHONY : bfs/NumberOfIslands.i
+
+# target to preprocess a source file
+bfs/NumberOfIslands.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.i
+.PHONY : bfs/NumberOfIslands.cpp.i
+
+bfs/NumberOfIslands.s: bfs/NumberOfIslands.cpp.s
+
+.PHONY : bfs/NumberOfIslands.s
+
+# target to generate assembly for a file
+bfs/NumberOfIslands.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.s
+.PHONY : bfs/NumberOfIslands.cpp.s
+
+bfs/WordLadder.o: bfs/WordLadder.cpp.o
+
+.PHONY : bfs/WordLadder.o
+
+# target to build an object file
+bfs/WordLadder.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o
+.PHONY : bfs/WordLadder.cpp.o
+
+bfs/WordLadder.i: bfs/WordLadder.cpp.i
+
+.PHONY : bfs/WordLadder.i
+
+# target to preprocess a source file
+bfs/WordLadder.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.i
+.PHONY : bfs/WordLadder.cpp.i
+
+bfs/WordLadder.s: bfs/WordLadder.cpp.s
+
+.PHONY : bfs/WordLadder.s
+
+# target to generate assembly for a file
+bfs/WordLadder.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.s
+.PHONY : bfs/WordLadder.cpp.s
+
+bfs/WordLadderII.o: bfs/WordLadderII.cpp.o
+
+.PHONY : bfs/WordLadderII.o
+
+# target to build an object file
+bfs/WordLadderII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o
+.PHONY : bfs/WordLadderII.cpp.o
+
+bfs/WordLadderII.i: bfs/WordLadderII.cpp.i
+
+.PHONY : bfs/WordLadderII.i
+
+# target to preprocess a source file
+bfs/WordLadderII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.i
+.PHONY : bfs/WordLadderII.cpp.i
+
+bfs/WordLadderII.s: bfs/WordLadderII.cpp.s
+
+.PHONY : bfs/WordLadderII.s
+
+# target to generate assembly for a file
+bfs/WordLadderII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.s
+.PHONY : bfs/WordLadderII.cpp.s
+
+bfs/ZombieInMatrix.o: bfs/ZombieInMatrix.cpp.o
+
+.PHONY : bfs/ZombieInMatrix.o
+
+# target to build an object file
+bfs/ZombieInMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o
+.PHONY : bfs/ZombieInMatrix.cpp.o
+
+bfs/ZombieInMatrix.i: bfs/ZombieInMatrix.cpp.i
+
+.PHONY : bfs/ZombieInMatrix.i
+
+# target to preprocess a source file
+bfs/ZombieInMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.i
+.PHONY : bfs/ZombieInMatrix.cpp.i
+
+bfs/ZombieInMatrix.s: bfs/ZombieInMatrix.cpp.s
+
+.PHONY : bfs/ZombieInMatrix.s
+
+# target to generate assembly for a file
+bfs/ZombieInMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.s
+.PHONY : bfs/ZombieInMatrix.cpp.s
+
 bst/BalancedBinaryTree.o: bst/BalancedBinaryTree.cpp.o
 
 .PHONY : bst/BalancedBinaryTree.o
@@ -312,6 +582,222 @@ design/LRUCache.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.s
 .PHONY : design/LRUCache.cpp.s
 
+dfs/CombinationSum.o: dfs/CombinationSum.cpp.o
+
+.PHONY : dfs/CombinationSum.o
+
+# target to build an object file
+dfs/CombinationSum.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o
+.PHONY : dfs/CombinationSum.cpp.o
+
+dfs/CombinationSum.i: dfs/CombinationSum.cpp.i
+
+.PHONY : dfs/CombinationSum.i
+
+# target to preprocess a source file
+dfs/CombinationSum.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.i
+.PHONY : dfs/CombinationSum.cpp.i
+
+dfs/CombinationSum.s: dfs/CombinationSum.cpp.s
+
+.PHONY : dfs/CombinationSum.s
+
+# target to generate assembly for a file
+dfs/CombinationSum.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.s
+.PHONY : dfs/CombinationSum.cpp.s
+
+dfs/CombinationSumII.o: dfs/CombinationSumII.cpp.o
+
+.PHONY : dfs/CombinationSumII.o
+
+# target to build an object file
+dfs/CombinationSumII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o
+.PHONY : dfs/CombinationSumII.cpp.o
+
+dfs/CombinationSumII.i: dfs/CombinationSumII.cpp.i
+
+.PHONY : dfs/CombinationSumII.i
+
+# target to preprocess a source file
+dfs/CombinationSumII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.i
+.PHONY : dfs/CombinationSumII.cpp.i
+
+dfs/CombinationSumII.s: dfs/CombinationSumII.cpp.s
+
+.PHONY : dfs/CombinationSumII.s
+
+# target to generate assembly for a file
+dfs/CombinationSumII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.s
+.PHONY : dfs/CombinationSumII.cpp.s
+
+dfs/N-Queens.o: dfs/N-Queens.cpp.o
+
+.PHONY : dfs/N-Queens.o
+
+# target to build an object file
+dfs/N-Queens.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o
+.PHONY : dfs/N-Queens.cpp.o
+
+dfs/N-Queens.i: dfs/N-Queens.cpp.i
+
+.PHONY : dfs/N-Queens.i
+
+# target to preprocess a source file
+dfs/N-Queens.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.i
+.PHONY : dfs/N-Queens.cpp.i
+
+dfs/N-Queens.s: dfs/N-Queens.cpp.s
+
+.PHONY : dfs/N-Queens.s
+
+# target to generate assembly for a file
+dfs/N-Queens.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.s
+.PHONY : dfs/N-Queens.cpp.s
+
+dfs/PalindromePartitioning.o: dfs/PalindromePartitioning.cpp.o
+
+.PHONY : dfs/PalindromePartitioning.o
+
+# target to build an object file
+dfs/PalindromePartitioning.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o
+.PHONY : dfs/PalindromePartitioning.cpp.o
+
+dfs/PalindromePartitioning.i: dfs/PalindromePartitioning.cpp.i
+
+.PHONY : dfs/PalindromePartitioning.i
+
+# target to preprocess a source file
+dfs/PalindromePartitioning.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.i
+.PHONY : dfs/PalindromePartitioning.cpp.i
+
+dfs/PalindromePartitioning.s: dfs/PalindromePartitioning.cpp.s
+
+.PHONY : dfs/PalindromePartitioning.s
+
+# target to generate assembly for a file
+dfs/PalindromePartitioning.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.s
+.PHONY : dfs/PalindromePartitioning.cpp.s
+
+dfs/Permutation.o: dfs/Permutation.cpp.o
+
+.PHONY : dfs/Permutation.o
+
+# target to build an object file
+dfs/Permutation.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o
+.PHONY : dfs/Permutation.cpp.o
+
+dfs/Permutation.i: dfs/Permutation.cpp.i
+
+.PHONY : dfs/Permutation.i
+
+# target to preprocess a source file
+dfs/Permutation.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.i
+.PHONY : dfs/Permutation.cpp.i
+
+dfs/Permutation.s: dfs/Permutation.cpp.s
+
+.PHONY : dfs/Permutation.s
+
+# target to generate assembly for a file
+dfs/Permutation.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.s
+.PHONY : dfs/Permutation.cpp.s
+
+dfs/PermutationII.o: dfs/PermutationII.cpp.o
+
+.PHONY : dfs/PermutationII.o
+
+# target to build an object file
+dfs/PermutationII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o
+.PHONY : dfs/PermutationII.cpp.o
+
+dfs/PermutationII.i: dfs/PermutationII.cpp.i
+
+.PHONY : dfs/PermutationII.i
+
+# target to preprocess a source file
+dfs/PermutationII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.i
+.PHONY : dfs/PermutationII.cpp.i
+
+dfs/PermutationII.s: dfs/PermutationII.cpp.s
+
+.PHONY : dfs/PermutationII.s
+
+# target to generate assembly for a file
+dfs/PermutationII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.s
+.PHONY : dfs/PermutationII.cpp.s
+
+dfs/SubsetII.o: dfs/SubsetII.cpp.o
+
+.PHONY : dfs/SubsetII.o
+
+# target to build an object file
+dfs/SubsetII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o
+.PHONY : dfs/SubsetII.cpp.o
+
+dfs/SubsetII.i: dfs/SubsetII.cpp.i
+
+.PHONY : dfs/SubsetII.i
+
+# target to preprocess a source file
+dfs/SubsetII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.i
+.PHONY : dfs/SubsetII.cpp.i
+
+dfs/SubsetII.s: dfs/SubsetII.cpp.s
+
+.PHONY : dfs/SubsetII.s
+
+# target to generate assembly for a file
+dfs/SubsetII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.s
+.PHONY : dfs/SubsetII.cpp.s
+
+dfs/Subsets.o: dfs/Subsets.cpp.o
+
+.PHONY : dfs/Subsets.o
+
+# target to build an object file
+dfs/Subsets.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o
+.PHONY : dfs/Subsets.cpp.o
+
+dfs/Subsets.i: dfs/Subsets.cpp.i
+
+.PHONY : dfs/Subsets.i
+
+# target to preprocess a source file
+dfs/Subsets.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.i
+.PHONY : dfs/Subsets.cpp.i
+
+dfs/Subsets.s: dfs/Subsets.cpp.s
+
+.PHONY : dfs/Subsets.s
+
+# target to generate assembly for a file
+dfs/Subsets.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.s
+.PHONY : dfs/Subsets.cpp.s
+
 graph/CloneGraph.o: graph/CloneGraph.cpp.o
 
 .PHONY : graph/CloneGraph.o
@@ -339,60 +825,6 @@ graph/CloneGraph.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.s
 .PHONY : graph/CloneGraph.cpp.s
 
-graph/CourseScheduleI.o: graph/CourseScheduleI.cpp.o
-
-.PHONY : graph/CourseScheduleI.o
-
-# target to build an object file
-graph/CourseScheduleI.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.o
-.PHONY : graph/CourseScheduleI.cpp.o
-
-graph/CourseScheduleI.i: graph/CourseScheduleI.cpp.i
-
-.PHONY : graph/CourseScheduleI.i
-
-# target to preprocess a source file
-graph/CourseScheduleI.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.i
-.PHONY : graph/CourseScheduleI.cpp.i
-
-graph/CourseScheduleI.s: graph/CourseScheduleI.cpp.s
-
-.PHONY : graph/CourseScheduleI.s
-
-# target to generate assembly for a file
-graph/CourseScheduleI.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.s
-.PHONY : graph/CourseScheduleI.cpp.s
-
-graph/CourseScheduleII.o: graph/CourseScheduleII.cpp.o
-
-.PHONY : graph/CourseScheduleII.o
-
-# target to build an object file
-graph/CourseScheduleII.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.o
-.PHONY : graph/CourseScheduleII.cpp.o
-
-graph/CourseScheduleII.i: graph/CourseScheduleII.cpp.i
-
-.PHONY : graph/CourseScheduleII.i
-
-# target to preprocess a source file
-graph/CourseScheduleII.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.i
-.PHONY : graph/CourseScheduleII.cpp.i
-
-graph/CourseScheduleII.s: graph/CourseScheduleII.cpp.s
-
-.PHONY : graph/CourseScheduleII.s
-
-# target to generate assembly for a file
-graph/CourseScheduleII.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.s
-.PHONY : graph/CourseScheduleII.cpp.s
-
 graph/GraphValidTree.o: graph/GraphValidTree.cpp.o
 
 .PHONY : graph/GraphValidTree.o
@@ -419,60 +851,6 @@ graph/GraphValidTree.s: graph/GraphValidTree.cpp.s
 graph/GraphValidTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.s
 .PHONY : graph/GraphValidTree.cpp.s
-
-graph/NumberOfIslands.o: graph/NumberOfIslands.cpp.o
-
-.PHONY : graph/NumberOfIslands.o
-
-# target to build an object file
-graph/NumberOfIslands.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.o
-.PHONY : graph/NumberOfIslands.cpp.o
-
-graph/NumberOfIslands.i: graph/NumberOfIslands.cpp.i
-
-.PHONY : graph/NumberOfIslands.i
-
-# target to preprocess a source file
-graph/NumberOfIslands.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.i
-.PHONY : graph/NumberOfIslands.cpp.i
-
-graph/NumberOfIslands.s: graph/NumberOfIslands.cpp.s
-
-.PHONY : graph/NumberOfIslands.s
-
-# target to generate assembly for a file
-graph/NumberOfIslands.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.s
-.PHONY : graph/NumberOfIslands.cpp.s
-
-graph/ZombieInMatrix.o: graph/ZombieInMatrix.cpp.o
-
-.PHONY : graph/ZombieInMatrix.o
-
-# target to build an object file
-graph/ZombieInMatrix.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.o
-.PHONY : graph/ZombieInMatrix.cpp.o
-
-graph/ZombieInMatrix.i: graph/ZombieInMatrix.cpp.i
-
-.PHONY : graph/ZombieInMatrix.i
-
-# target to preprocess a source file
-graph/ZombieInMatrix.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.i
-.PHONY : graph/ZombieInMatrix.cpp.i
-
-graph/ZombieInMatrix.s: graph/ZombieInMatrix.cpp.s
-
-.PHONY : graph/ZombieInMatrix.s
-
-# target to generate assembly for a file
-graph/ZombieInMatrix.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/graph/ZombieInMatrix.cpp.s
-.PHONY : graph/ZombieInMatrix.cpp.s
 
 heap/KthLargestElemsInArray.o: heap/KthLargestElemsInArray.cpp.o
 
@@ -852,6 +1230,87 @@ tree/SerializationDeserializationBT.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.s
 .PHONY : tree/SerializationDeserializationBT.cpp.s
 
+twopointers/PartitionArray.o: twopointers/PartitionArray.cpp.o
+
+.PHONY : twopointers/PartitionArray.o
+
+# target to build an object file
+twopointers/PartitionArray.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o
+.PHONY : twopointers/PartitionArray.cpp.o
+
+twopointers/PartitionArray.i: twopointers/PartitionArray.cpp.i
+
+.PHONY : twopointers/PartitionArray.i
+
+# target to preprocess a source file
+twopointers/PartitionArray.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.i
+.PHONY : twopointers/PartitionArray.cpp.i
+
+twopointers/PartitionArray.s: twopointers/PartitionArray.cpp.s
+
+.PHONY : twopointers/PartitionArray.s
+
+# target to generate assembly for a file
+twopointers/PartitionArray.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.s
+.PHONY : twopointers/PartitionArray.cpp.s
+
+twopointers/RainbowSort.o: twopointers/RainbowSort.cpp.o
+
+.PHONY : twopointers/RainbowSort.o
+
+# target to build an object file
+twopointers/RainbowSort.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o
+.PHONY : twopointers/RainbowSort.cpp.o
+
+twopointers/RainbowSort.i: twopointers/RainbowSort.cpp.i
+
+.PHONY : twopointers/RainbowSort.i
+
+# target to preprocess a source file
+twopointers/RainbowSort.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.i
+.PHONY : twopointers/RainbowSort.cpp.i
+
+twopointers/RainbowSort.s: twopointers/RainbowSort.cpp.s
+
+.PHONY : twopointers/RainbowSort.s
+
+# target to generate assembly for a file
+twopointers/RainbowSort.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.s
+.PHONY : twopointers/RainbowSort.cpp.s
+
+twopointers/SortColors.o: twopointers/SortColors.cpp.o
+
+.PHONY : twopointers/SortColors.o
+
+# target to build an object file
+twopointers/SortColors.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o
+.PHONY : twopointers/SortColors.cpp.o
+
+twopointers/SortColors.i: twopointers/SortColors.cpp.i
+
+.PHONY : twopointers/SortColors.i
+
+# target to preprocess a source file
+twopointers/SortColors.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.i
+.PHONY : twopointers/SortColors.cpp.i
+
+twopointers/SortColors.s: twopointers/SortColors.cpp.s
+
+.PHONY : twopointers/SortColors.s
+
+# target to generate assembly for a file
+twopointers/SortColors.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.s
+.PHONY : twopointers/SortColors.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -861,6 +1320,36 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_cpp"
+	@echo "... array/IntersectionOfTwoArrays.o"
+	@echo "... array/IntersectionOfTwoArrays.i"
+	@echo "... array/IntersectionOfTwoArrays.s"
+	@echo "... array/MedianofTwoSortedArray.o"
+	@echo "... array/MedianofTwoSortedArray.i"
+	@echo "... array/MedianofTwoSortedArray.s"
+	@echo "... bfs/BuildPostOfficeII.o"
+	@echo "... bfs/BuildPostOfficeII.i"
+	@echo "... bfs/BuildPostOfficeII.s"
+	@echo "... bfs/CourseScheduleI.o"
+	@echo "... bfs/CourseScheduleI.i"
+	@echo "... bfs/CourseScheduleI.s"
+	@echo "... bfs/CourseScheduleII.o"
+	@echo "... bfs/CourseScheduleII.i"
+	@echo "... bfs/CourseScheduleII.s"
+	@echo "... bfs/KnightShortestPath.o"
+	@echo "... bfs/KnightShortestPath.i"
+	@echo "... bfs/KnightShortestPath.s"
+	@echo "... bfs/NumberOfIslands.o"
+	@echo "... bfs/NumberOfIslands.i"
+	@echo "... bfs/NumberOfIslands.s"
+	@echo "... bfs/WordLadder.o"
+	@echo "... bfs/WordLadder.i"
+	@echo "... bfs/WordLadder.s"
+	@echo "... bfs/WordLadderII.o"
+	@echo "... bfs/WordLadderII.i"
+	@echo "... bfs/WordLadderII.s"
+	@echo "... bfs/ZombieInMatrix.o"
+	@echo "... bfs/ZombieInMatrix.i"
+	@echo "... bfs/ZombieInMatrix.s"
 	@echo "... bst/BalancedBinaryTree.o"
 	@echo "... bst/BalancedBinaryTree.i"
 	@echo "... bst/BalancedBinaryTree.s"
@@ -882,24 +1371,36 @@ help:
 	@echo "... design/LRUCache.o"
 	@echo "... design/LRUCache.i"
 	@echo "... design/LRUCache.s"
+	@echo "... dfs/CombinationSum.o"
+	@echo "... dfs/CombinationSum.i"
+	@echo "... dfs/CombinationSum.s"
+	@echo "... dfs/CombinationSumII.o"
+	@echo "... dfs/CombinationSumII.i"
+	@echo "... dfs/CombinationSumII.s"
+	@echo "... dfs/N-Queens.o"
+	@echo "... dfs/N-Queens.i"
+	@echo "... dfs/N-Queens.s"
+	@echo "... dfs/PalindromePartitioning.o"
+	@echo "... dfs/PalindromePartitioning.i"
+	@echo "... dfs/PalindromePartitioning.s"
+	@echo "... dfs/Permutation.o"
+	@echo "... dfs/Permutation.i"
+	@echo "... dfs/Permutation.s"
+	@echo "... dfs/PermutationII.o"
+	@echo "... dfs/PermutationII.i"
+	@echo "... dfs/PermutationII.s"
+	@echo "... dfs/SubsetII.o"
+	@echo "... dfs/SubsetII.i"
+	@echo "... dfs/SubsetII.s"
+	@echo "... dfs/Subsets.o"
+	@echo "... dfs/Subsets.i"
+	@echo "... dfs/Subsets.s"
 	@echo "... graph/CloneGraph.o"
 	@echo "... graph/CloneGraph.i"
 	@echo "... graph/CloneGraph.s"
-	@echo "... graph/CourseScheduleI.o"
-	@echo "... graph/CourseScheduleI.i"
-	@echo "... graph/CourseScheduleI.s"
-	@echo "... graph/CourseScheduleII.o"
-	@echo "... graph/CourseScheduleII.i"
-	@echo "... graph/CourseScheduleII.s"
 	@echo "... graph/GraphValidTree.o"
 	@echo "... graph/GraphValidTree.i"
 	@echo "... graph/GraphValidTree.s"
-	@echo "... graph/NumberOfIslands.o"
-	@echo "... graph/NumberOfIslands.i"
-	@echo "... graph/NumberOfIslands.s"
-	@echo "... graph/ZombieInMatrix.o"
-	@echo "... graph/ZombieInMatrix.i"
-	@echo "... graph/ZombieInMatrix.s"
 	@echo "... heap/KthLargestElemsInArray.o"
 	@echo "... heap/KthLargestElemsInArray.i"
 	@echo "... heap/KthLargestElemsInArray.s"
@@ -942,6 +1443,15 @@ help:
 	@echo "... tree/SerializationDeserializationBT.o"
 	@echo "... tree/SerializationDeserializationBT.i"
 	@echo "... tree/SerializationDeserializationBT.s"
+	@echo "... twopointers/PartitionArray.o"
+	@echo "... twopointers/PartitionArray.i"
+	@echo "... twopointers/PartitionArray.s"
+	@echo "... twopointers/RainbowSort.o"
+	@echo "... twopointers/RainbowSort.i"
+	@echo "... twopointers/RainbowSort.s"
+	@echo "... twopointers/SortColors.o"
+	@echo "... twopointers/SortColors.i"
+	@echo "... twopointers/SortColors.s"
 .PHONY : help
 
 

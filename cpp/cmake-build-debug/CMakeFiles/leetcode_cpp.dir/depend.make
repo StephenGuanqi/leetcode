@@ -15,6 +15,8 @@ CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o: ../design/LFUCache.cpp
 
 CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o: ../design/LRUCache.cpp
 
+CMakeFiles/leetcode_cpp.dir/graph/BuildPostOfficeII.cpp.o: ../graph/BuildPostOfficeII.cpp
+
 CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o: ../graph/CloneGraph.cpp
 
 CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.o: ../graph/CourseScheduleI.cpp
@@ -22,6 +24,8 @@ CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleI.cpp.o: ../graph/CourseSchedule
 CMakeFiles/leetcode_cpp.dir/graph/CourseScheduleII.cpp.o: ../graph/CourseScheduleII.cpp
 
 CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o: ../graph/GraphValidTree.cpp
+
+CMakeFiles/leetcode_cpp.dir/graph/KnightShortestPath.cpp.o: ../graph/KnightShortestPath.cpp
 
 CMakeFiles/leetcode_cpp.dir/graph/NumberOfIslands.cpp.o: ../graph/NumberOfIslands.cpp
 

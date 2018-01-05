@@ -80,6 +80,36 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/IntersectionOfTwoArrays.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/MedianofTwoSortedArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/BuildPostOfficeII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/CourseScheduleI.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/CourseScheduleII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/KnightShortestPath.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/NumberOfIslands.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/WordLadder.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/WordLadderII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/ZombieInMatrix.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/BalancedBinaryTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
@@ -101,22 +131,34 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/LRUCache.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/CombinationSum.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/CombinationSumII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/N-Queens.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/PalindromePartitioning.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/Permutation.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/PermutationII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/SubsetII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/Subsets.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CloneGraph.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CourseScheduleI.cpp">
-			<Option target="leetcode_cpp"/>
-		</Unit>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CourseScheduleII.cpp">
-			<Option target="leetcode_cpp"/>
-		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/GraphValidTree.cpp">
-			<Option target="leetcode_cpp"/>
-		</Unit>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/NumberOfIslands.cpp">
-			<Option target="leetcode_cpp"/>
-		</Unit>
-		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/ZombieInMatrix.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/KthLargestElemsInArray.cpp">
@@ -159,6 +201,15 @@
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/SerializationDeserializationBT.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/PartitionArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/RainbowSort.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/SortColors.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/CMakeLists.txt">
