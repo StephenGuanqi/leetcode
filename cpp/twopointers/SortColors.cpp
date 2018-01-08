@@ -18,10 +18,15 @@ public:
 	void sortColors(vector<int> &nums) {
 		// write your code here
 		if (nums.empty())   return;
+		// pl first pos is 1
+		// pr first pos is 2
 		int pl = 0, pr = nums.size() - 1;
 		int i = 0;
 		while ( i <= pr) {
 			if (nums[i] == 2) {
+				/**
+				 * don't change i, we don't know what is nums[pr]
+				 */
 				swap(nums[pr], nums[i]);
 				--pr;
 			} else if (nums[i] == 0) {

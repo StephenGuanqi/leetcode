@@ -447,6 +447,60 @@ bst/ContainsDuplicateII.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.s
 .PHONY : bst/ContainsDuplicateII.cpp.s
 
+bst/ConvertSingleLinkedListToBST.o: bst/ConvertSingleLinkedListToBST.cpp.o
+
+.PHONY : bst/ConvertSingleLinkedListToBST.o
+
+# target to build an object file
+bst/ConvertSingleLinkedListToBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o
+.PHONY : bst/ConvertSingleLinkedListToBST.cpp.o
+
+bst/ConvertSingleLinkedListToBST.i: bst/ConvertSingleLinkedListToBST.cpp.i
+
+.PHONY : bst/ConvertSingleLinkedListToBST.i
+
+# target to preprocess a source file
+bst/ConvertSingleLinkedListToBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.i
+.PHONY : bst/ConvertSingleLinkedListToBST.cpp.i
+
+bst/ConvertSingleLinkedListToBST.s: bst/ConvertSingleLinkedListToBST.cpp.s
+
+.PHONY : bst/ConvertSingleLinkedListToBST.s
+
+# target to generate assembly for a file
+bst/ConvertSingleLinkedListToBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.s
+.PHONY : bst/ConvertSingleLinkedListToBST.cpp.s
+
+bst/ConvertSortedArrayToBST.o: bst/ConvertSortedArrayToBST.cpp.o
+
+.PHONY : bst/ConvertSortedArrayToBST.o
+
+# target to build an object file
+bst/ConvertSortedArrayToBST.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o
+.PHONY : bst/ConvertSortedArrayToBST.cpp.o
+
+bst/ConvertSortedArrayToBST.i: bst/ConvertSortedArrayToBST.cpp.i
+
+.PHONY : bst/ConvertSortedArrayToBST.i
+
+# target to preprocess a source file
+bst/ConvertSortedArrayToBST.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.i
+.PHONY : bst/ConvertSortedArrayToBST.cpp.i
+
+bst/ConvertSortedArrayToBST.s: bst/ConvertSortedArrayToBST.cpp.s
+
+.PHONY : bst/ConvertSortedArrayToBST.s
+
+# target to generate assembly for a file
+bst/ConvertSortedArrayToBST.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.s
+.PHONY : bst/ConvertSortedArrayToBST.cpp.s
+
 bst/KthSmallestEleminBST.o: bst/KthSmallestEleminBST.cpp.o
 
 .PHONY : bst/KthSmallestEleminBST.o
@@ -906,6 +960,330 @@ heap/MergeKSortedLists.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.s
 .PHONY : heap/MergeKSortedLists.cpp.s
 
+linkedlist/ConvertBST2SingleLinkedList.o: linkedlist/ConvertBST2SingleLinkedList.cpp.o
+
+.PHONY : linkedlist/ConvertBST2SingleLinkedList.o
+
+# target to build an object file
+linkedlist/ConvertBST2SingleLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o
+.PHONY : linkedlist/ConvertBST2SingleLinkedList.cpp.o
+
+linkedlist/ConvertBST2SingleLinkedList.i: linkedlist/ConvertBST2SingleLinkedList.cpp.i
+
+.PHONY : linkedlist/ConvertBST2SingleLinkedList.i
+
+# target to preprocess a source file
+linkedlist/ConvertBST2SingleLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.i
+.PHONY : linkedlist/ConvertBST2SingleLinkedList.cpp.i
+
+linkedlist/ConvertBST2SingleLinkedList.s: linkedlist/ConvertBST2SingleLinkedList.cpp.s
+
+.PHONY : linkedlist/ConvertBST2SingleLinkedList.s
+
+# target to generate assembly for a file
+linkedlist/ConvertBST2SingleLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.s
+.PHONY : linkedlist/ConvertBST2SingleLinkedList.cpp.s
+
+linkedlist/CopyListWithRandomPointer.o: linkedlist/CopyListWithRandomPointer.cpp.o
+
+.PHONY : linkedlist/CopyListWithRandomPointer.o
+
+# target to build an object file
+linkedlist/CopyListWithRandomPointer.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o
+.PHONY : linkedlist/CopyListWithRandomPointer.cpp.o
+
+linkedlist/CopyListWithRandomPointer.i: linkedlist/CopyListWithRandomPointer.cpp.i
+
+.PHONY : linkedlist/CopyListWithRandomPointer.i
+
+# target to preprocess a source file
+linkedlist/CopyListWithRandomPointer.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.i
+.PHONY : linkedlist/CopyListWithRandomPointer.cpp.i
+
+linkedlist/CopyListWithRandomPointer.s: linkedlist/CopyListWithRandomPointer.cpp.s
+
+.PHONY : linkedlist/CopyListWithRandomPointer.s
+
+# target to generate assembly for a file
+linkedlist/CopyListWithRandomPointer.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.s
+.PHONY : linkedlist/CopyListWithRandomPointer.cpp.s
+
+linkedlist/InsertIntoCycliclSortedList.o: linkedlist/InsertIntoCycliclSortedList.cpp.o
+
+.PHONY : linkedlist/InsertIntoCycliclSortedList.o
+
+# target to build an object file
+linkedlist/InsertIntoCycliclSortedList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o
+.PHONY : linkedlist/InsertIntoCycliclSortedList.cpp.o
+
+linkedlist/InsertIntoCycliclSortedList.i: linkedlist/InsertIntoCycliclSortedList.cpp.i
+
+.PHONY : linkedlist/InsertIntoCycliclSortedList.i
+
+# target to preprocess a source file
+linkedlist/InsertIntoCycliclSortedList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.i
+.PHONY : linkedlist/InsertIntoCycliclSortedList.cpp.i
+
+linkedlist/InsertIntoCycliclSortedList.s: linkedlist/InsertIntoCycliclSortedList.cpp.s
+
+.PHONY : linkedlist/InsertIntoCycliclSortedList.s
+
+# target to generate assembly for a file
+linkedlist/InsertIntoCycliclSortedList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.s
+.PHONY : linkedlist/InsertIntoCycliclSortedList.cpp.s
+
+linkedlist/LinkedListCycle.o: linkedlist/LinkedListCycle.cpp.o
+
+.PHONY : linkedlist/LinkedListCycle.o
+
+# target to build an object file
+linkedlist/LinkedListCycle.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o
+.PHONY : linkedlist/LinkedListCycle.cpp.o
+
+linkedlist/LinkedListCycle.i: linkedlist/LinkedListCycle.cpp.i
+
+.PHONY : linkedlist/LinkedListCycle.i
+
+# target to preprocess a source file
+linkedlist/LinkedListCycle.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.i
+.PHONY : linkedlist/LinkedListCycle.cpp.i
+
+linkedlist/LinkedListCycle.s: linkedlist/LinkedListCycle.cpp.s
+
+.PHONY : linkedlist/LinkedListCycle.s
+
+# target to generate assembly for a file
+linkedlist/LinkedListCycle.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.s
+.PHONY : linkedlist/LinkedListCycle.cpp.s
+
+linkedlist/Merge2SortedList.o: linkedlist/Merge2SortedList.cpp.o
+
+.PHONY : linkedlist/Merge2SortedList.o
+
+# target to build an object file
+linkedlist/Merge2SortedList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o
+.PHONY : linkedlist/Merge2SortedList.cpp.o
+
+linkedlist/Merge2SortedList.i: linkedlist/Merge2SortedList.cpp.i
+
+.PHONY : linkedlist/Merge2SortedList.i
+
+# target to preprocess a source file
+linkedlist/Merge2SortedList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.i
+.PHONY : linkedlist/Merge2SortedList.cpp.i
+
+linkedlist/Merge2SortedList.s: linkedlist/Merge2SortedList.cpp.s
+
+.PHONY : linkedlist/Merge2SortedList.s
+
+# target to generate assembly for a file
+linkedlist/Merge2SortedList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.s
+.PHONY : linkedlist/Merge2SortedList.cpp.s
+
+linkedlist/PartitionList.o: linkedlist/PartitionList.cpp.o
+
+.PHONY : linkedlist/PartitionList.o
+
+# target to build an object file
+linkedlist/PartitionList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o
+.PHONY : linkedlist/PartitionList.cpp.o
+
+linkedlist/PartitionList.i: linkedlist/PartitionList.cpp.i
+
+.PHONY : linkedlist/PartitionList.i
+
+# target to preprocess a source file
+linkedlist/PartitionList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.i
+.PHONY : linkedlist/PartitionList.cpp.i
+
+linkedlist/PartitionList.s: linkedlist/PartitionList.cpp.s
+
+.PHONY : linkedlist/PartitionList.s
+
+# target to generate assembly for a file
+linkedlist/PartitionList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.s
+.PHONY : linkedlist/PartitionList.cpp.s
+
+linkedlist/ReOrderList.o: linkedlist/ReOrderList.cpp.o
+
+.PHONY : linkedlist/ReOrderList.o
+
+# target to build an object file
+linkedlist/ReOrderList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o
+.PHONY : linkedlist/ReOrderList.cpp.o
+
+linkedlist/ReOrderList.i: linkedlist/ReOrderList.cpp.i
+
+.PHONY : linkedlist/ReOrderList.i
+
+# target to preprocess a source file
+linkedlist/ReOrderList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.i
+.PHONY : linkedlist/ReOrderList.cpp.i
+
+linkedlist/ReOrderList.s: linkedlist/ReOrderList.cpp.s
+
+.PHONY : linkedlist/ReOrderList.s
+
+# target to generate assembly for a file
+linkedlist/ReOrderList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.s
+.PHONY : linkedlist/ReOrderList.cpp.s
+
+linkedlist/ReverseNodesKGroup.o: linkedlist/ReverseNodesKGroup.cpp.o
+
+.PHONY : linkedlist/ReverseNodesKGroup.o
+
+# target to build an object file
+linkedlist/ReverseNodesKGroup.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o
+.PHONY : linkedlist/ReverseNodesKGroup.cpp.o
+
+linkedlist/ReverseNodesKGroup.i: linkedlist/ReverseNodesKGroup.cpp.i
+
+.PHONY : linkedlist/ReverseNodesKGroup.i
+
+# target to preprocess a source file
+linkedlist/ReverseNodesKGroup.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.i
+.PHONY : linkedlist/ReverseNodesKGroup.cpp.i
+
+linkedlist/ReverseNodesKGroup.s: linkedlist/ReverseNodesKGroup.cpp.s
+
+.PHONY : linkedlist/ReverseNodesKGroup.s
+
+# target to generate assembly for a file
+linkedlist/ReverseNodesKGroup.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.s
+.PHONY : linkedlist/ReverseNodesKGroup.cpp.s
+
+linkedlist/ReversedLinkedList.o: linkedlist/ReversedLinkedList.cpp.o
+
+.PHONY : linkedlist/ReversedLinkedList.o
+
+# target to build an object file
+linkedlist/ReversedLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o
+.PHONY : linkedlist/ReversedLinkedList.cpp.o
+
+linkedlist/ReversedLinkedList.i: linkedlist/ReversedLinkedList.cpp.i
+
+.PHONY : linkedlist/ReversedLinkedList.i
+
+# target to preprocess a source file
+linkedlist/ReversedLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.i
+.PHONY : linkedlist/ReversedLinkedList.cpp.i
+
+linkedlist/ReversedLinkedList.s: linkedlist/ReversedLinkedList.cpp.s
+
+.PHONY : linkedlist/ReversedLinkedList.s
+
+# target to generate assembly for a file
+linkedlist/ReversedLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.s
+.PHONY : linkedlist/ReversedLinkedList.cpp.s
+
+linkedlist/ReversedLinkedListII.o: linkedlist/ReversedLinkedListII.cpp.o
+
+.PHONY : linkedlist/ReversedLinkedListII.o
+
+# target to build an object file
+linkedlist/ReversedLinkedListII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o
+.PHONY : linkedlist/ReversedLinkedListII.cpp.o
+
+linkedlist/ReversedLinkedListII.i: linkedlist/ReversedLinkedListII.cpp.i
+
+.PHONY : linkedlist/ReversedLinkedListII.i
+
+# target to preprocess a source file
+linkedlist/ReversedLinkedListII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.i
+.PHONY : linkedlist/ReversedLinkedListII.cpp.i
+
+linkedlist/ReversedLinkedListII.s: linkedlist/ReversedLinkedListII.cpp.s
+
+.PHONY : linkedlist/ReversedLinkedListII.s
+
+# target to generate assembly for a file
+linkedlist/ReversedLinkedListII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.s
+.PHONY : linkedlist/ReversedLinkedListII.cpp.s
+
+linkedlist/RotateList.o: linkedlist/RotateList.cpp.o
+
+.PHONY : linkedlist/RotateList.o
+
+# target to build an object file
+linkedlist/RotateList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o
+.PHONY : linkedlist/RotateList.cpp.o
+
+linkedlist/RotateList.i: linkedlist/RotateList.cpp.i
+
+.PHONY : linkedlist/RotateList.i
+
+# target to preprocess a source file
+linkedlist/RotateList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.i
+.PHONY : linkedlist/RotateList.cpp.i
+
+linkedlist/RotateList.s: linkedlist/RotateList.cpp.s
+
+.PHONY : linkedlist/RotateList.s
+
+# target to generate assembly for a file
+linkedlist/RotateList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.s
+.PHONY : linkedlist/RotateList.cpp.s
+
+linkedlist/SortList.o: linkedlist/SortList.cpp.o
+
+.PHONY : linkedlist/SortList.o
+
+# target to build an object file
+linkedlist/SortList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o
+.PHONY : linkedlist/SortList.cpp.o
+
+linkedlist/SortList.i: linkedlist/SortList.cpp.i
+
+.PHONY : linkedlist/SortList.i
+
+# target to preprocess a source file
+linkedlist/SortList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.i
+.PHONY : linkedlist/SortList.cpp.i
+
+linkedlist/SortList.s: linkedlist/SortList.cpp.s
+
+.PHONY : linkedlist/SortList.s
+
+# target to generate assembly for a file
+linkedlist/SortList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.s
+.PHONY : linkedlist/SortList.cpp.s
+
 tree/BinaryTreeInorderTraversal.o: tree/BinaryTreeInorderTraversal.cpp.o
 
 .PHONY : tree/BinaryTreeInorderTraversal.o
@@ -986,60 +1364,6 @@ tree/BinaryTreeLongestConsequtiveSequenceII.s: tree/BinaryTreeLongestConsequtive
 tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s
 .PHONY : tree/BinaryTreeLongestConsequtiveSequenceII.cpp.s
-
-tree/ConvertSingleLinkedListToBST.o: tree/ConvertSingleLinkedListToBST.cpp.o
-
-.PHONY : tree/ConvertSingleLinkedListToBST.o
-
-# target to build an object file
-tree/ConvertSingleLinkedListToBST.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o
-.PHONY : tree/ConvertSingleLinkedListToBST.cpp.o
-
-tree/ConvertSingleLinkedListToBST.i: tree/ConvertSingleLinkedListToBST.cpp.i
-
-.PHONY : tree/ConvertSingleLinkedListToBST.i
-
-# target to preprocess a source file
-tree/ConvertSingleLinkedListToBST.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.i
-.PHONY : tree/ConvertSingleLinkedListToBST.cpp.i
-
-tree/ConvertSingleLinkedListToBST.s: tree/ConvertSingleLinkedListToBST.cpp.s
-
-.PHONY : tree/ConvertSingleLinkedListToBST.s
-
-# target to generate assembly for a file
-tree/ConvertSingleLinkedListToBST.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.s
-.PHONY : tree/ConvertSingleLinkedListToBST.cpp.s
-
-tree/ConvertSortedArrayToBST.o: tree/ConvertSortedArrayToBST.cpp.o
-
-.PHONY : tree/ConvertSortedArrayToBST.o
-
-# target to build an object file
-tree/ConvertSortedArrayToBST.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o
-.PHONY : tree/ConvertSortedArrayToBST.cpp.o
-
-tree/ConvertSortedArrayToBST.i: tree/ConvertSortedArrayToBST.cpp.i
-
-.PHONY : tree/ConvertSortedArrayToBST.i
-
-# target to preprocess a source file
-tree/ConvertSortedArrayToBST.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.i
-.PHONY : tree/ConvertSortedArrayToBST.cpp.i
-
-tree/ConvertSortedArrayToBST.s: tree/ConvertSortedArrayToBST.cpp.s
-
-.PHONY : tree/ConvertSortedArrayToBST.s
-
-# target to generate assembly for a file
-tree/ConvertSortedArrayToBST.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.s
-.PHONY : tree/ConvertSortedArrayToBST.cpp.s
 
 tree/FlattenBinaryTreeToLinkedList.o: tree/FlattenBinaryTreeToLinkedList.cpp.o
 
@@ -1149,6 +1473,33 @@ tree/MergeTwoBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.s
 .PHONY : tree/MergeTwoBinaryTree.cpp.s
 
+tree/MinDepthOfBinaryTree.o: tree/MinDepthOfBinaryTree.cpp.o
+
+.PHONY : tree/MinDepthOfBinaryTree.o
+
+# target to build an object file
+tree/MinDepthOfBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o
+.PHONY : tree/MinDepthOfBinaryTree.cpp.o
+
+tree/MinDepthOfBinaryTree.i: tree/MinDepthOfBinaryTree.cpp.i
+
+.PHONY : tree/MinDepthOfBinaryTree.i
+
+# target to preprocess a source file
+tree/MinDepthOfBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.i
+.PHONY : tree/MinDepthOfBinaryTree.cpp.i
+
+tree/MinDepthOfBinaryTree.s: tree/MinDepthOfBinaryTree.cpp.s
+
+.PHONY : tree/MinDepthOfBinaryTree.s
+
+# target to generate assembly for a file
+tree/MinDepthOfBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.s
+.PHONY : tree/MinDepthOfBinaryTree.cpp.s
+
 tree/PostorderTraversal.o: tree/PostorderTraversal.cpp.o
 
 .PHONY : tree/PostorderTraversal.o
@@ -1229,6 +1580,87 @@ tree/SerializationDeserializationBT.s: tree/SerializationDeserializationBT.cpp.s
 tree/SerializationDeserializationBT.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.s
 .PHONY : tree/SerializationDeserializationBT.cpp.s
+
+twopointers/3SumClosest.o: twopointers/3SumClosest.cpp.o
+
+.PHONY : twopointers/3SumClosest.o
+
+# target to build an object file
+twopointers/3SumClosest.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o
+.PHONY : twopointers/3SumClosest.cpp.o
+
+twopointers/3SumClosest.i: twopointers/3SumClosest.cpp.i
+
+.PHONY : twopointers/3SumClosest.i
+
+# target to preprocess a source file
+twopointers/3SumClosest.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.i
+.PHONY : twopointers/3SumClosest.cpp.i
+
+twopointers/3SumClosest.s: twopointers/3SumClosest.cpp.s
+
+.PHONY : twopointers/3SumClosest.s
+
+# target to generate assembly for a file
+twopointers/3SumClosest.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.s
+.PHONY : twopointers/3SumClosest.cpp.s
+
+twopointers/4Sum.o: twopointers/4Sum.cpp.o
+
+.PHONY : twopointers/4Sum.o
+
+# target to build an object file
+twopointers/4Sum.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o
+.PHONY : twopointers/4Sum.cpp.o
+
+twopointers/4Sum.i: twopointers/4Sum.cpp.i
+
+.PHONY : twopointers/4Sum.i
+
+# target to preprocess a source file
+twopointers/4Sum.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.i
+.PHONY : twopointers/4Sum.cpp.i
+
+twopointers/4Sum.s: twopointers/4Sum.cpp.s
+
+.PHONY : twopointers/4Sum.s
+
+# target to generate assembly for a file
+twopointers/4Sum.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.s
+.PHONY : twopointers/4Sum.cpp.s
+
+twopointers/MoveZeros.o: twopointers/MoveZeros.cpp.o
+
+.PHONY : twopointers/MoveZeros.o
+
+# target to build an object file
+twopointers/MoveZeros.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o
+.PHONY : twopointers/MoveZeros.cpp.o
+
+twopointers/MoveZeros.i: twopointers/MoveZeros.cpp.i
+
+.PHONY : twopointers/MoveZeros.i
+
+# target to preprocess a source file
+twopointers/MoveZeros.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.i
+.PHONY : twopointers/MoveZeros.cpp.i
+
+twopointers/MoveZeros.s: twopointers/MoveZeros.cpp.s
+
+.PHONY : twopointers/MoveZeros.s
+
+# target to generate assembly for a file
+twopointers/MoveZeros.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.s
+.PHONY : twopointers/MoveZeros.cpp.s
 
 twopointers/PartitionArray.o: twopointers/PartitionArray.cpp.o
 
@@ -1311,6 +1743,168 @@ twopointers/SortColors.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.s
 .PHONY : twopointers/SortColors.cpp.s
 
+twopointers/ThreeSum.o: twopointers/ThreeSum.cpp.o
+
+.PHONY : twopointers/ThreeSum.o
+
+# target to build an object file
+twopointers/ThreeSum.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o
+.PHONY : twopointers/ThreeSum.cpp.o
+
+twopointers/ThreeSum.i: twopointers/ThreeSum.cpp.i
+
+.PHONY : twopointers/ThreeSum.i
+
+# target to preprocess a source file
+twopointers/ThreeSum.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.i
+.PHONY : twopointers/ThreeSum.cpp.i
+
+twopointers/ThreeSum.s: twopointers/ThreeSum.cpp.s
+
+.PHONY : twopointers/ThreeSum.s
+
+# target to generate assembly for a file
+twopointers/ThreeSum.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.s
+.PHONY : twopointers/ThreeSum.cpp.s
+
+twopointers/TriangleCount.o: twopointers/TriangleCount.cpp.o
+
+.PHONY : twopointers/TriangleCount.o
+
+# target to build an object file
+twopointers/TriangleCount.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o
+.PHONY : twopointers/TriangleCount.cpp.o
+
+twopointers/TriangleCount.i: twopointers/TriangleCount.cpp.i
+
+.PHONY : twopointers/TriangleCount.i
+
+# target to preprocess a source file
+twopointers/TriangleCount.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.i
+.PHONY : twopointers/TriangleCount.cpp.i
+
+twopointers/TriangleCount.s: twopointers/TriangleCount.cpp.s
+
+.PHONY : twopointers/TriangleCount.s
+
+# target to generate assembly for a file
+twopointers/TriangleCount.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.s
+.PHONY : twopointers/TriangleCount.cpp.s
+
+twopointers/TwoSumClosestTarget.o: twopointers/TwoSumClosestTarget.cpp.o
+
+.PHONY : twopointers/TwoSumClosestTarget.o
+
+# target to build an object file
+twopointers/TwoSumClosestTarget.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o
+.PHONY : twopointers/TwoSumClosestTarget.cpp.o
+
+twopointers/TwoSumClosestTarget.i: twopointers/TwoSumClosestTarget.cpp.i
+
+.PHONY : twopointers/TwoSumClosestTarget.i
+
+# target to preprocess a source file
+twopointers/TwoSumClosestTarget.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.i
+.PHONY : twopointers/TwoSumClosestTarget.cpp.i
+
+twopointers/TwoSumClosestTarget.s: twopointers/TwoSumClosestTarget.cpp.s
+
+.PHONY : twopointers/TwoSumClosestTarget.s
+
+# target to generate assembly for a file
+twopointers/TwoSumClosestTarget.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.s
+.PHONY : twopointers/TwoSumClosestTarget.cpp.s
+
+twopointers/TwoSumDiffEqualsTarget.o: twopointers/TwoSumDiffEqualsTarget.cpp.o
+
+.PHONY : twopointers/TwoSumDiffEqualsTarget.o
+
+# target to build an object file
+twopointers/TwoSumDiffEqualsTarget.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o
+.PHONY : twopointers/TwoSumDiffEqualsTarget.cpp.o
+
+twopointers/TwoSumDiffEqualsTarget.i: twopointers/TwoSumDiffEqualsTarget.cpp.i
+
+.PHONY : twopointers/TwoSumDiffEqualsTarget.i
+
+# target to preprocess a source file
+twopointers/TwoSumDiffEqualsTarget.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.i
+.PHONY : twopointers/TwoSumDiffEqualsTarget.cpp.i
+
+twopointers/TwoSumDiffEqualsTarget.s: twopointers/TwoSumDiffEqualsTarget.cpp.s
+
+.PHONY : twopointers/TwoSumDiffEqualsTarget.s
+
+# target to generate assembly for a file
+twopointers/TwoSumDiffEqualsTarget.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.s
+.PHONY : twopointers/TwoSumDiffEqualsTarget.cpp.s
+
+twopointers/TwoSumLessOrEqualToTarget.o: twopointers/TwoSumLessOrEqualToTarget.cpp.o
+
+.PHONY : twopointers/TwoSumLessOrEqualToTarget.o
+
+# target to build an object file
+twopointers/TwoSumLessOrEqualToTarget.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o
+.PHONY : twopointers/TwoSumLessOrEqualToTarget.cpp.o
+
+twopointers/TwoSumLessOrEqualToTarget.i: twopointers/TwoSumLessOrEqualToTarget.cpp.i
+
+.PHONY : twopointers/TwoSumLessOrEqualToTarget.i
+
+# target to preprocess a source file
+twopointers/TwoSumLessOrEqualToTarget.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.i
+.PHONY : twopointers/TwoSumLessOrEqualToTarget.cpp.i
+
+twopointers/TwoSumLessOrEqualToTarget.s: twopointers/TwoSumLessOrEqualToTarget.cpp.s
+
+.PHONY : twopointers/TwoSumLessOrEqualToTarget.s
+
+# target to generate assembly for a file
+twopointers/TwoSumLessOrEqualToTarget.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.s
+.PHONY : twopointers/TwoSumLessOrEqualToTarget.cpp.s
+
+twopointers/TwoSumUniquePair.o: twopointers/TwoSumUniquePair.cpp.o
+
+.PHONY : twopointers/TwoSumUniquePair.o
+
+# target to build an object file
+twopointers/TwoSumUniquePair.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o
+.PHONY : twopointers/TwoSumUniquePair.cpp.o
+
+twopointers/TwoSumUniquePair.i: twopointers/TwoSumUniquePair.cpp.i
+
+.PHONY : twopointers/TwoSumUniquePair.i
+
+# target to preprocess a source file
+twopointers/TwoSumUniquePair.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.i
+.PHONY : twopointers/TwoSumUniquePair.cpp.i
+
+twopointers/TwoSumUniquePair.s: twopointers/TwoSumUniquePair.cpp.s
+
+.PHONY : twopointers/TwoSumUniquePair.s
+
+# target to generate assembly for a file
+twopointers/TwoSumUniquePair.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.s
+.PHONY : twopointers/TwoSumUniquePair.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1356,6 +1950,12 @@ help:
 	@echo "... bst/ContainsDuplicateII.o"
 	@echo "... bst/ContainsDuplicateII.i"
 	@echo "... bst/ContainsDuplicateII.s"
+	@echo "... bst/ConvertSingleLinkedListToBST.o"
+	@echo "... bst/ConvertSingleLinkedListToBST.i"
+	@echo "... bst/ConvertSingleLinkedListToBST.s"
+	@echo "... bst/ConvertSortedArrayToBST.o"
+	@echo "... bst/ConvertSortedArrayToBST.i"
+	@echo "... bst/ConvertSortedArrayToBST.s"
 	@echo "... bst/KthSmallestEleminBST.o"
 	@echo "... bst/KthSmallestEleminBST.i"
 	@echo "... bst/KthSmallestEleminBST.s"
@@ -1407,6 +2007,42 @@ help:
 	@echo "... heap/MergeKSortedLists.o"
 	@echo "... heap/MergeKSortedLists.i"
 	@echo "... heap/MergeKSortedLists.s"
+	@echo "... linkedlist/ConvertBST2SingleLinkedList.o"
+	@echo "... linkedlist/ConvertBST2SingleLinkedList.i"
+	@echo "... linkedlist/ConvertBST2SingleLinkedList.s"
+	@echo "... linkedlist/CopyListWithRandomPointer.o"
+	@echo "... linkedlist/CopyListWithRandomPointer.i"
+	@echo "... linkedlist/CopyListWithRandomPointer.s"
+	@echo "... linkedlist/InsertIntoCycliclSortedList.o"
+	@echo "... linkedlist/InsertIntoCycliclSortedList.i"
+	@echo "... linkedlist/InsertIntoCycliclSortedList.s"
+	@echo "... linkedlist/LinkedListCycle.o"
+	@echo "... linkedlist/LinkedListCycle.i"
+	@echo "... linkedlist/LinkedListCycle.s"
+	@echo "... linkedlist/Merge2SortedList.o"
+	@echo "... linkedlist/Merge2SortedList.i"
+	@echo "... linkedlist/Merge2SortedList.s"
+	@echo "... linkedlist/PartitionList.o"
+	@echo "... linkedlist/PartitionList.i"
+	@echo "... linkedlist/PartitionList.s"
+	@echo "... linkedlist/ReOrderList.o"
+	@echo "... linkedlist/ReOrderList.i"
+	@echo "... linkedlist/ReOrderList.s"
+	@echo "... linkedlist/ReverseNodesKGroup.o"
+	@echo "... linkedlist/ReverseNodesKGroup.i"
+	@echo "... linkedlist/ReverseNodesKGroup.s"
+	@echo "... linkedlist/ReversedLinkedList.o"
+	@echo "... linkedlist/ReversedLinkedList.i"
+	@echo "... linkedlist/ReversedLinkedList.s"
+	@echo "... linkedlist/ReversedLinkedListII.o"
+	@echo "... linkedlist/ReversedLinkedListII.i"
+	@echo "... linkedlist/ReversedLinkedListII.s"
+	@echo "... linkedlist/RotateList.o"
+	@echo "... linkedlist/RotateList.i"
+	@echo "... linkedlist/RotateList.s"
+	@echo "... linkedlist/SortList.o"
+	@echo "... linkedlist/SortList.i"
+	@echo "... linkedlist/SortList.s"
 	@echo "... tree/BinaryTreeInorderTraversal.o"
 	@echo "... tree/BinaryTreeInorderTraversal.i"
 	@echo "... tree/BinaryTreeInorderTraversal.s"
@@ -1416,12 +2052,6 @@ help:
 	@echo "... tree/BinaryTreeLongestConsequtiveSequenceII.o"
 	@echo "... tree/BinaryTreeLongestConsequtiveSequenceII.i"
 	@echo "... tree/BinaryTreeLongestConsequtiveSequenceII.s"
-	@echo "... tree/ConvertSingleLinkedListToBST.o"
-	@echo "... tree/ConvertSingleLinkedListToBST.i"
-	@echo "... tree/ConvertSingleLinkedListToBST.s"
-	@echo "... tree/ConvertSortedArrayToBST.o"
-	@echo "... tree/ConvertSortedArrayToBST.i"
-	@echo "... tree/ConvertSortedArrayToBST.s"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.o"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.i"
 	@echo "... tree/FlattenBinaryTreeToLinkedList.s"
@@ -1434,6 +2064,9 @@ help:
 	@echo "... tree/MergeTwoBinaryTree.o"
 	@echo "... tree/MergeTwoBinaryTree.i"
 	@echo "... tree/MergeTwoBinaryTree.s"
+	@echo "... tree/MinDepthOfBinaryTree.o"
+	@echo "... tree/MinDepthOfBinaryTree.i"
+	@echo "... tree/MinDepthOfBinaryTree.s"
 	@echo "... tree/PostorderTraversal.o"
 	@echo "... tree/PostorderTraversal.i"
 	@echo "... tree/PostorderTraversal.s"
@@ -1443,6 +2076,15 @@ help:
 	@echo "... tree/SerializationDeserializationBT.o"
 	@echo "... tree/SerializationDeserializationBT.i"
 	@echo "... tree/SerializationDeserializationBT.s"
+	@echo "... twopointers/3SumClosest.o"
+	@echo "... twopointers/3SumClosest.i"
+	@echo "... twopointers/3SumClosest.s"
+	@echo "... twopointers/4Sum.o"
+	@echo "... twopointers/4Sum.i"
+	@echo "... twopointers/4Sum.s"
+	@echo "... twopointers/MoveZeros.o"
+	@echo "... twopointers/MoveZeros.i"
+	@echo "... twopointers/MoveZeros.s"
 	@echo "... twopointers/PartitionArray.o"
 	@echo "... twopointers/PartitionArray.i"
 	@echo "... twopointers/PartitionArray.s"
@@ -1452,6 +2094,24 @@ help:
 	@echo "... twopointers/SortColors.o"
 	@echo "... twopointers/SortColors.i"
 	@echo "... twopointers/SortColors.s"
+	@echo "... twopointers/ThreeSum.o"
+	@echo "... twopointers/ThreeSum.i"
+	@echo "... twopointers/ThreeSum.s"
+	@echo "... twopointers/TriangleCount.o"
+	@echo "... twopointers/TriangleCount.i"
+	@echo "... twopointers/TriangleCount.s"
+	@echo "... twopointers/TwoSumClosestTarget.o"
+	@echo "... twopointers/TwoSumClosestTarget.i"
+	@echo "... twopointers/TwoSumClosestTarget.s"
+	@echo "... twopointers/TwoSumDiffEqualsTarget.o"
+	@echo "... twopointers/TwoSumDiffEqualsTarget.i"
+	@echo "... twopointers/TwoSumDiffEqualsTarget.s"
+	@echo "... twopointers/TwoSumLessOrEqualToTarget.o"
+	@echo "... twopointers/TwoSumLessOrEqualToTarget.i"
+	@echo "... twopointers/TwoSumLessOrEqualToTarget.s"
+	@echo "... twopointers/TwoSumUniquePair.o"
+	@echo "... twopointers/TwoSumUniquePair.i"
+	@echo "... twopointers/TwoSumUniquePair.s"
 .PHONY : help
 
 

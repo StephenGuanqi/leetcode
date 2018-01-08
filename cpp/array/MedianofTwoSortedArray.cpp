@@ -37,7 +37,7 @@ private:
 		if (start1 >= nums1.size()) return nums2[start2 + k - 1];
 		if (start2 >= nums2.size()) return nums1[start1 + k - 1];
 		if (k == 1) return min(nums1[start1], nums2[start2]);
-		// one of array elements is not enough compare with infinite and element and discard
+		// one of array elements is not enough compare with infinite and element are discarded
 		// [1 2 3 4 5 6 7 8 9 10]    [1 100]
 		int key1 = start1 + k / 2 - 1 >= nums1.size() ? INT_MAX : nums1[start1 + k / 2 - 1];
 		int key2 = start2 + k / 2 - 1 >= nums2.size() ? INT_MAX : nums2[start2 + k / 2 - 1];

@@ -13,5 +13,6 @@ file(GLOB All_SRC
 		"dfs/*.cpp"
 		"array/*.cpp"
 		"twopointers/*.cpp"
+		"linkedlist/*.cpp"
 		"*.cpp")
 add_executable(leetcode_cpp ${All_SRC})

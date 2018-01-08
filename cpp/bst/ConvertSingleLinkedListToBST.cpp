@@ -44,3 +44,38 @@ public:
 	}
 
 };
+
+
+class Solution2 {
+public:
+	/*
+	 * @param head: The first node of linked list.
+	 * @return: a tree node
+	 */
+	TreeNode * sortedListToBST(ListNode * head) {
+		int size = getSize(head);
+		current = head;
+		return getBST(size);
+	}
+
+private:
+	TreeNode *getBST(int size) {
+		if (size <= 0)  return nullptr;
+		TreeNode *left = getBST(size / 2);
+		TreeNode *root = new TreeNode(current->val);
+		current = current->next;
+		TreeNode *right = getBST(size - 1 - size / 2);
+		root->left = left;
+		root->right = right;
+	}
+
+	int getSize(ListNode *head) {
+		int size = 0;
+		while (head != nullptr) {
+			head = head->next;
+			++size;
+		}
+		return size;
+	}
+	ListNode *current;
+};

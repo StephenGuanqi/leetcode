@@ -65,7 +65,7 @@ private:
 	const int diff[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 };
 
-int main() {
-	vector<vector<int>> grid = {{0,1,2,0,0}, {1,0,0,2,1}, {0,1,0,0,0}};
-	cout << Solution().zombie(grid) << endl;
-}
+//int main() {
+//	vector<vector<int>> grid = {{0,1,2,0,0}, {1,0,0,2,1}, {0,1,0,0,0}};
+//	cout << Solution().zombie(grid) << endl;
+//}

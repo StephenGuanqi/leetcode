@@ -105,9 +105,57 @@ CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o.provides: CMakeFiles/l
 CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o
 
 
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o: ../bst/ConvertSingleLinkedListToBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bst/ConvertSingleLinkedListToBST.cpp
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/bst/ConvertSingleLinkedListToBST.cpp > CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/bst/ConvertSingleLinkedListToBST.cpp -o CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o: ../bst/ConvertSortedArrayToBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bst/ConvertSortedArrayToBST.cpp
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/bst/ConvertSortedArrayToBST.cpp > CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/bst/ConvertSortedArrayToBST.cpp -o CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o
+
+
 CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o: ../bst/KthSmallestEleminBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bst/KthSmallestEleminBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.i: cmake_force
@@ -131,7 +179,7 @@ CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o.provides.build: CMake
 
 CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o: ../bst/MinimumAbsoluteDifferenceBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bst/MinimumAbsoluteDifferenceBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.i: cmake_force
@@ -155,7 +203,7 @@ CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o.provides.buil
 
 CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o: ../bst/ValidateBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bst/ValidateBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.i: cmake_force
@@ -179,7 +227,7 @@ CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o.provides.build: CMakeFiles/lee
 
 CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o: ../heap/KthLargestElemsInArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/heap/KthLargestElemsInArray.cpp
 
 CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.i: cmake_force
@@ -203,7 +251,7 @@ CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o.provides.build: CM
 
 CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o: ../heap/MergeKSortedLists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/heap/MergeKSortedLists.cpp
 
 CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.i: cmake_force
@@ -227,7 +275,7 @@ CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o.provides.build: CMakeFi
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o: ../tree/BinaryTreeInorderTraversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeInorderTraversal.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.i: cmake_force
@@ -251,7 +299,7 @@ CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o.provides.build
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o: ../tree/BinaryTreeLongestConsequtiveSequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeLongestConsequtiveSequence.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.i: cmake_force
@@ -275,7 +323,7 @@ CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o.prov
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o: ../tree/BinaryTreeLongestConsequtiveSequenceII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeLongestConsequtiveSequenceII.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.i: cmake_force
@@ -295,54 +343,6 @@ CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o.pr
 .PHONY : CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o.provides
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o
-
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o: ../tree/ConvertSingleLinkedListToBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSingleLinkedListToBST.cpp
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSingleLinkedListToBST.cpp > CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.i
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSingleLinkedListToBST.cpp -o CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.s
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.requires:
-
-.PHONY : CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.requires
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.requires
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.provides.build
-.PHONY : CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.provides
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o
-
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o: ../tree/ConvertSortedArrayToBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSortedArrayToBST.cpp
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSortedArrayToBST.cpp > CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.i
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/tree/ConvertSortedArrayToBST.cpp -o CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.s
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.requires:
-
-.PHONY : CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.requires
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.requires
-	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.provides.build
-.PHONY : CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.provides
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o
 
 
 CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
@@ -441,9 +441,33 @@ CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o.provides: CMakeFiles/l
 CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o
 
 
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o: ../tree/MinDepthOfBinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/MinDepthOfBinaryTree.cpp
+
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/tree/MinDepthOfBinaryTree.cpp > CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/tree/MinDepthOfBinaryTree.cpp -o CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o
+
+
 CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o: ../tree/PostorderTraversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/PostorderTraversal.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.i: cmake_force
@@ -467,7 +491,7 @@ CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o.provides.build: CMakeF
 
 CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o: ../tree/PreorderTraversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/PreorderTraversal.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.i: cmake_force
@@ -491,7 +515,7 @@ CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o.provides.build: CMakeFi
 
 CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o: ../tree/SerializationDeserializationBT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/tree/SerializationDeserializationBT.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.i: cmake_force
@@ -515,7 +539,7 @@ CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o.provides.b
 
 CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o: ../design/LFUCache.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/design/LFUCache.cpp
 
 CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.i: cmake_force
@@ -539,7 +563,7 @@ CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o.provides.build: CMakeFiles/lee
 
 CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o: ../design/LRUCache.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/design/LRUCache.cpp
 
 CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.i: cmake_force
@@ -563,7 +587,7 @@ CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o.provides.build: CMakeFiles/lee
 
 CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o: ../graph/CloneGraph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/graph/CloneGraph.cpp
 
 CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.i: cmake_force
@@ -587,7 +611,7 @@ CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o.provides.build: CMakeFiles/le
 
 CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o: ../graph/GraphValidTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/graph/GraphValidTree.cpp
 
 CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.i: cmake_force
@@ -611,7 +635,7 @@ CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o: ../bfs/BuildPostOfficeII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/BuildPostOfficeII.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.i: cmake_force
@@ -635,7 +659,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o: ../bfs/CourseScheduleI.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/CourseScheduleI.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.i: cmake_force
@@ -659,7 +683,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleI.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o: ../bfs/CourseScheduleII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/CourseScheduleII.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.i: cmake_force
@@ -683,7 +707,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/CourseScheduleII.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o: ../bfs/KnightShortestPath.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/KnightShortestPath.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.i: cmake_force
@@ -707,7 +731,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/KnightShortestPath.cpp.o.provides.build: CMakeFi
 
 CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o: ../bfs/NumberOfIslands.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/NumberOfIslands.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.i: cmake_force
@@ -731,7 +755,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/NumberOfIslands.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o: ../bfs/WordLadder.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/WordLadder.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.i: cmake_force
@@ -755,7 +779,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/WordLadder.cpp.o.provides.build: CMakeFiles/leet
 
 CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o: ../bfs/WordLadderII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/WordLadderII.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.i: cmake_force
@@ -779,7 +803,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o.provides.build: CMakeFiles/le
 
 CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o: ../bfs/ZombieInMatrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/bfs/ZombieInMatrix.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.i: cmake_force
@@ -803,7 +827,7 @@ CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o: ../dfs/CombinationSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/CombinationSum.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.i: cmake_force
@@ -827,7 +851,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o: ../dfs/CombinationSumII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/CombinationSumII.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.i: cmake_force
@@ -851,7 +875,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/CombinationSumII.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o: ../dfs/N-Queens.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/N-Queens.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.i: cmake_force
@@ -875,7 +899,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/N-Queens.cpp.o.provides.build: CMakeFiles/leetco
 
 CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o: ../dfs/PalindromePartitioning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/PalindromePartitioning.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.i: cmake_force
@@ -899,7 +923,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/PalindromePartitioning.cpp.o.provides.build: CMa
 
 CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o: ../dfs/Permutation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/Permutation.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.i: cmake_force
@@ -923,7 +947,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/Permutation.cpp.o.provides.build: CMakeFiles/lee
 
 CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o: ../dfs/PermutationII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/PermutationII.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.i: cmake_force
@@ -947,7 +971,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/PermutationII.cpp.o.provides.build: CMakeFiles/l
 
 CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o: ../dfs/SubsetII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/SubsetII.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.i: cmake_force
@@ -971,7 +995,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o.provides.build: CMakeFiles/leetco
 
 CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o: ../dfs/Subsets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/dfs/Subsets.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.i: cmake_force
@@ -995,7 +1019,7 @@ CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o.provides.build: CMakeFiles/leetcod
 
 CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o: ../array/IntersectionOfTwoArrays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/array/IntersectionOfTwoArrays.cpp
 
 CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.i: cmake_force
@@ -1019,7 +1043,7 @@ CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o.provides.build: 
 
 CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o: ../array/MedianofTwoSortedArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/array/MedianofTwoSortedArray.cpp
 
 CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.i: cmake_force
@@ -1041,9 +1065,81 @@ CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o.provides: CMakeFi
 CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o
 
 
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o: ../twopointers/3SumClosest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/3SumClosest.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/3SumClosest.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/3SumClosest.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o: ../twopointers/4Sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/4Sum.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/4Sum.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/4Sum.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o: ../twopointers/MoveZeros.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/MoveZeros.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/MoveZeros.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/MoveZeros.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o
+
+
 CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o: ../twopointers/PartitionArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/PartitionArray.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.i: cmake_force
@@ -1067,7 +1163,7 @@ CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o.provides.build: CMa
 
 CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o: ../twopointers/RainbowSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/RainbowSort.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.i: cmake_force
@@ -1091,7 +1187,7 @@ CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o.provides.build: CMakeF
 
 CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
 CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o: ../twopointers/SortColors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/SortColors.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.i: cmake_force
@@ -1113,10 +1209,444 @@ CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o.provides: CMakeFiles/le
 CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o
 
 
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o: ../twopointers/ThreeSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/ThreeSum.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/ThreeSum.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/ThreeSum.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o: ../twopointers/TriangleCount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/TriangleCount.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/TriangleCount.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/TriangleCount.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o: ../twopointers/TwoSumClosestTarget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumClosestTarget.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumClosestTarget.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumClosestTarget.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o: ../twopointers/TwoSumDiffEqualsTarget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumDiffEqualsTarget.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumDiffEqualsTarget.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumDiffEqualsTarget.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o: ../twopointers/TwoSumLessOrEqualToTarget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumLessOrEqualToTarget.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumLessOrEqualToTarget.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumLessOrEqualToTarget.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o: ../twopointers/TwoSumUniquePair.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumUniquePair.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumUniquePair.cpp > CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumUniquePair.cpp -o CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o: ../linkedlist/ConvertBST2SingleLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ConvertBST2SingleLinkedList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ConvertBST2SingleLinkedList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ConvertBST2SingleLinkedList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o: ../linkedlist/CopyListWithRandomPointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/CopyListWithRandomPointer.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/CopyListWithRandomPointer.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/CopyListWithRandomPointer.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o: ../linkedlist/InsertIntoCycliclSortedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/InsertIntoCycliclSortedList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/InsertIntoCycliclSortedList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/InsertIntoCycliclSortedList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o: ../linkedlist/LinkedListCycle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/LinkedListCycle.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/LinkedListCycle.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/LinkedListCycle.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o: ../linkedlist/Merge2SortedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/Merge2SortedList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/Merge2SortedList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/Merge2SortedList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o: ../linkedlist/PartitionList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/PartitionList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/PartitionList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/PartitionList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o: ../linkedlist/ReOrderList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReOrderList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReOrderList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReOrderList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o: ../linkedlist/ReverseNodesKGroup.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReverseNodesKGroup.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReverseNodesKGroup.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReverseNodesKGroup.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o: ../linkedlist/ReversedLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReversedLinkedList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReversedLinkedList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReversedLinkedList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o: ../linkedlist/ReversedLinkedListII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReversedLinkedListII.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReversedLinkedListII.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/ReversedLinkedListII.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o: ../linkedlist/RotateList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/RotateList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/RotateList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/RotateList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o
+
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o: CMakeFiles/leetcode_cpp.dir/flags.make
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o: ../linkedlist/SortList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o -c /Users/guanqiy/workspace/leetcode/cpp/linkedlist/SortList.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guanqiy/workspace/leetcode/cpp/linkedlist/SortList.cpp > CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.i
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guanqiy/workspace/leetcode/cpp/linkedlist/SortList.cpp -o CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.s
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.requires:
+
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.requires
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.provides: CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/leetcode_cpp.dir/build.make CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.provides.build
+.PHONY : CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.provides
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.provides.build: CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o
+
+
 # Object files for target leetcode_cpp
 leetcode_cpp_OBJECTS = \
 "CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o" \
@@ -1125,12 +1655,11 @@ leetcode_cpp_OBJECTS = \
 "CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o" \
-"CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o" \
-"CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o" \
@@ -1156,15 +1685,38 @@ leetcode_cpp_OBJECTS = \
 "CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o" \
 "CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o" \
-"CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o"
+"CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o" \
+"CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o"
 
 # External object files for target leetcode_cpp
 leetcode_cpp_EXTERNAL_OBJECTS =
 
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o
@@ -1173,12 +1725,11 @@ leetcode_cpp: CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o
-leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o
-leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o
@@ -1204,12 +1755,33 @@ leetcode_cpp: CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o
+leetcode_cpp: CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/build.make
 leetcode_cpp: CMakeFiles/leetcode_cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Linking CXX executable leetcode_cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/guanqiy/workspace/leetcode/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Linking CXX executable leetcode_cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1219,6 +1791,8 @@ CMakeFiles/leetcode_cpp.dir/build: leetcode_cpp
 
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o.requires
@@ -1227,12 +1801,11 @@ CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/heap/MergeKSor
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o.requires
-CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o.requires
-CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/LowestCommonAncestor.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/MaximumDepthofBinaryTree.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/MergeTwoBinaryTree.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/MinDepthOfBinaryTree.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/PostorderTraversal.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/PreorderTraversal.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/tree/SerializationDeserializationBT.cpp.o.requires
@@ -1258,9 +1831,30 @@ CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.c
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o.requires
 CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumLessOrEqualToTarget.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumUniquePair.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/InsertIntoCycliclSortedList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/LinkedListCycle.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/Merge2SortedList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/PartitionList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/ReOrderList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/ReverseNodesKGroup.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/ReversedLinkedListII.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o.requires
+CMakeFiles/leetcode_cpp.dir/requires: CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o.requires
 
 .PHONY : CMakeFiles/leetcode_cpp.dir/requires
 
