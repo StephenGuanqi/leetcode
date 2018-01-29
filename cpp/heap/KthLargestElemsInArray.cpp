@@ -13,6 +13,7 @@ class Solution {
 public:
 	/**
 	 * priority queue
+	 * O(nlogn)
 	 */
 	 int findKthLargest(vector<int>& nums, int k) {
 	     priority_queue<int> q(nums.cbegin(), nums.cend());
@@ -62,6 +63,7 @@ public:
 
 	/**
 	 * heap sort
+	 * O(n + klogn)
 	 */
 	inline int left(int index)
 	{

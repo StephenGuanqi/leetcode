@@ -32,10 +32,11 @@ public:
 private:
 	int findKthElem(vector<int> &nums1, int start1, vector<int> &nums2, int start2, int k) {
 		// one of array already doesn't have elements, return in the next
-		// [1]
-		// [1 2 3 4 5 6 7 8 9]
+		// [1 2]
+		// [10 20 30 40 50 60 70 80 90]   k = 4
 		if (start1 >= nums1.size()) return nums2[start2 + k - 1];
 		if (start2 >= nums2.size()) return nums1[start1 + k - 1];
+		// order is important here
 		if (k == 1) return min(nums1[start1], nums2[start2]);
 		// one of array elements is not enough compare with infinite and element are discarded
 		// [1 2 3 4 5 6 7 8 9 10]    [1 100]

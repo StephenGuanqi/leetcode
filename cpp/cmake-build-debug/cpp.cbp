@@ -83,7 +83,22 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/IntersectionOfTwoArrays.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/MaximumSubarray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/MedianofTwoSortedArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/SlidingWindowAverage.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/SubArraySum.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/SubArraySumClosest.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/array/WindowSum.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/BuildPostOfficeII.cpp">
@@ -110,6 +125,33 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bfs/ZombieInMatrix.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/FindMinimumInRotatedSortedArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/FindPeakElement.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/FirstBadVersion.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/FirstPosOfTarget.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/LastPosOfTarget.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/Search2DMatrix.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/Search2DMatrixII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/SearchInRotatedSortedArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/binarysearch/SqrtX.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/BalancedBinaryTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
@@ -131,10 +173,19 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/bst/ValidateBST.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/Flatten2DVector.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/FlattenNestedListIterator.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/LFUCache.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/LRUCache.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/design/ZigZagIterator.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/CombinationSum.cpp">
@@ -161,16 +212,67 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dfs/Subsets.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dp/DecodeWays.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dp/LongestIncreasingSubSequence.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dp/MinimumPathSum.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dp/TriangleCount.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/dp/UniquePaths.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/CloneGraph.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/graph/GraphValidTree.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/greedy/JumpGame.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/greedy/JumpGameII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/hashtable/Anagrams.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/hashtable/LongestConsecutieSequence.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/hashtable/Rehashing.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/HighFive.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/KClosestPoints.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/KthLargestElemsInArray.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/KthSmallestInSortedMatrix.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/MergeKSortedArray.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/MergeKSortedLists.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/TopKFrequentWords.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/TopKLargestNumber.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/heap/UglyNumberII.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/linkedlist/ConvertBST2SingleLinkedList.cpp">
@@ -207,6 +309,30 @@
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/linkedlist/SortList.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/petuum/RemoveAdjacencyDuplicate.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/CheckWordAbbreviation.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/ExpressionExpand.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/RotateString.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/StringsHomomorphism.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/StrstrII.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/ValidPalindrome.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/stack&amp;string/WordsAbbreviation.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/tree/BinaryTreeInorderTraversal.cpp">
@@ -248,6 +374,18 @@
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/4Sum.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/LongestSubstringAtmostKDistinct.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/LongestSubstringWithoutRepeatingChars.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/MinimumSizeSubarraySum.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/MinimumWindowSubstring.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/MoveZeros.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
@@ -255,6 +393,9 @@
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/RainbowSort.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/RemoveDupInArray.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/SortColors.cpp">
@@ -267,6 +408,9 @@
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumClosestTarget.cpp">
+			<Option target="leetcode_cpp"/>
+		</Unit>
+		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumDataStructure.cpp">
 			<Option target="leetcode_cpp"/>
 		</Unit>
 		<Unit filename="/Users/guanqiy/workspace/leetcode/cpp/twopointers/TwoSumDiffEqualsTarget.cpp">

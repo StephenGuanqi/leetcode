@@ -3,7 +3,17 @@
 
 CMakeFiles/leetcode_cpp.dir/array/IntersectionOfTwoArrays.cpp.o: ../array/IntersectionOfTwoArrays.cpp
 
+CMakeFiles/leetcode_cpp.dir/array/MaximumSubarray.cpp.o: ../array/MaximumSubarray.cpp
+
 CMakeFiles/leetcode_cpp.dir/array/MedianofTwoSortedArray.cpp.o: ../array/MedianofTwoSortedArray.cpp
+
+CMakeFiles/leetcode_cpp.dir/array/SlidingWindowAverage.cpp.o: ../array/SlidingWindowAverage.cpp
+
+CMakeFiles/leetcode_cpp.dir/array/SubArraySum.cpp.o: ../array/SubArraySum.cpp
+
+CMakeFiles/leetcode_cpp.dir/array/SubArraySumClosest.cpp.o: ../array/SubArraySumClosest.cpp
+
+CMakeFiles/leetcode_cpp.dir/array/WindowSum.cpp.o: ../array/WindowSum.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/BuildPostOfficeII.cpp.o: ../bfs/BuildPostOfficeII.cpp
 
@@ -21,9 +31,31 @@ CMakeFiles/leetcode_cpp.dir/bfs/WordLadderII.cpp.o: ../bfs/WordLadderII.cpp
 
 CMakeFiles/leetcode_cpp.dir/bfs/ZombieInMatrix.cpp.o: ../bfs/ZombieInMatrix.cpp
 
+CMakeFiles/leetcode_cpp.dir/binarysearch/FindMinimumInRotatedSortedArray.cpp.o: ../binarysearch/FindMinimumInRotatedSortedArray.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/FindPeakElement.cpp.o: ../binarysearch/FindPeakElement.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/FirstBadVersion.cpp.o: ../binarysearch/FirstBadVersion.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/FirstPosOfTarget.cpp.o: ../binarysearch/FirstPosOfTarget.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/LastPosOfTarget.cpp.o: ../binarysearch/LastPosOfTarget.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/Search2DMatrix.cpp.o: ../binarysearch/Search2DMatrix.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/Search2DMatrixII.cpp.o: ../binarysearch/Search2DMatrixII.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/SearchInRotatedSortedArray.cpp.o: ../binarysearch/SearchInRotatedSortedArray.cpp
+
+CMakeFiles/leetcode_cpp.dir/binarysearch/SqrtX.cpp.o: ../binarysearch/SqrtX.cpp
+
 CMakeFiles/leetcode_cpp.dir/bst/BalancedBinaryTree.cpp.o: ../bst/BalancedBinaryTree.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/ContainsDuplicateII.cpp.o: ../bst/ContainsDuplicateII.cpp
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSingleLinkedListToBST.cpp.o: ../bst/ConvertSingleLinkedListToBST.cpp
+
+CMakeFiles/leetcode_cpp.dir/bst/ConvertSortedArrayToBST.cpp.o: ../bst/ConvertSortedArrayToBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/bst/KthSmallestEleminBST.cpp.o: ../bst/KthSmallestEleminBST.cpp
 
@@ -31,9 +63,15 @@ CMakeFiles/leetcode_cpp.dir/bst/MinimumAbsoluteDifferenceBST.cpp.o: ../bst/Minim
 
 CMakeFiles/leetcode_cpp.dir/bst/ValidateBST.cpp.o: ../bst/ValidateBST.cpp
 
+CMakeFiles/leetcode_cpp.dir/design/Flatten2DVector.cpp.o: ../design/Flatten2DVector.cpp
+
+CMakeFiles/leetcode_cpp.dir/design/FlattenNestedListIterator.cpp.o: ../design/FlattenNestedListIterator.cpp
+
 CMakeFiles/leetcode_cpp.dir/design/LFUCache.cpp.o: ../design/LFUCache.cpp
 
 CMakeFiles/leetcode_cpp.dir/design/LRUCache.cpp.o: ../design/LRUCache.cpp
+
+CMakeFiles/leetcode_cpp.dir/design/ZigZagIterator.cpp.o: ../design/ZigZagIterator.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/CombinationSum.cpp.o: ../dfs/CombinationSum.cpp
 
@@ -51,13 +89,37 @@ CMakeFiles/leetcode_cpp.dir/dfs/SubsetII.cpp.o: ../dfs/SubsetII.cpp
 
 CMakeFiles/leetcode_cpp.dir/dfs/Subsets.cpp.o: ../dfs/Subsets.cpp
 
+CMakeFiles/leetcode_cpp.dir/dp/DecodeWays.cpp.o: ../dp/DecodeWays.cpp
+
 CMakeFiles/leetcode_cpp.dir/graph/CloneGraph.cpp.o: ../graph/CloneGraph.cpp
 
 CMakeFiles/leetcode_cpp.dir/graph/GraphValidTree.cpp.o: ../graph/GraphValidTree.cpp
 
+CMakeFiles/leetcode_cpp.dir/hashtable/Anagrams.cpp.o: ../hashtable/Anagrams.cpp
+
+CMakeFiles/leetcode_cpp.dir/hashtable/LongestConsecutieSequence.cpp.o: ../hashtable/LongestConsecutieSequence.cpp
+
+CMakeFiles/leetcode_cpp.dir/hashtable/Rehashing.cpp.o: ../hashtable/Rehashing.cpp
+
+CMakeFiles/leetcode_cpp.dir/heap/HighFive.cpp.o: ../heap/HighFive.cpp
+
+CMakeFiles/leetcode_cpp.dir/heap/KClosestPoints.cpp.o: ../heap/KClosestPoints.cpp
+
 CMakeFiles/leetcode_cpp.dir/heap/KthLargestElemsInArray.cpp.o: ../heap/KthLargestElemsInArray.cpp
 
+CMakeFiles/leetcode_cpp.dir/heap/KthSmallestInSortedMatrix.cpp.o: ../heap/KthSmallestInSortedMatrix.cpp
+
+CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedArray.cpp.o: ../heap/MergeKSortedArray.cpp
+
 CMakeFiles/leetcode_cpp.dir/heap/MergeKSortedLists.cpp.o: ../heap/MergeKSortedLists.cpp
+
+CMakeFiles/leetcode_cpp.dir/heap/TopKFrequentWords.cpp.o: ../heap/TopKFrequentWords.cpp
+
+CMakeFiles/leetcode_cpp.dir/heap/TopKLargestNumber.cpp.o: ../heap/TopKLargestNumber.cpp
+
+CMakeFiles/leetcode_cpp.dir/heap/UglyNumberII.cpp.o: ../heap/UglyNumberII.cpp
+
+CMakeFiles/leetcode_cpp.dir/linkedlist/ConvertBST2SingleLinkedList.cpp.o: ../linkedlist/ConvertBST2SingleLinkedList.cpp
 
 CMakeFiles/leetcode_cpp.dir/linkedlist/CopyListWithRandomPointer.cpp.o: ../linkedlist/CopyListWithRandomPointer.cpp
 
@@ -81,15 +143,27 @@ CMakeFiles/leetcode_cpp.dir/linkedlist/RotateList.cpp.o: ../linkedlist/RotateLis
 
 CMakeFiles/leetcode_cpp.dir/linkedlist/SortList.cpp.o: ../linkedlist/SortList.cpp
 
+CMakeFiles/leetcode_cpp.dir/petuum/RemoveAdjacencyDuplicate.cpp.o: ../petuum/RemoveAdjacencyDuplicate.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/CheckWordAbbreviation.cpp.o: ../stack&string/CheckWordAbbreviation.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/ExpressionExpand.cpp.o: ../stack&string/ExpressionExpand.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/RotateString.cpp.o: ../stack&string/RotateString.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/StringsHomomorphism.cpp.o: ../stack&string/StringsHomomorphism.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/StrstrII.cpp.o: ../stack&string/StrstrII.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/ValidPalindrome.cpp.o: ../stack&string/ValidPalindrome.cpp
+
+CMakeFiles/leetcode_cpp.dir/stack&string/WordsAbbreviation.cpp.o: ../stack&string/WordsAbbreviation.cpp
+
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeInorderTraversal.cpp.o: ../tree/BinaryTreeInorderTraversal.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequence.cpp.o: ../tree/BinaryTreeLongestConsequtiveSequence.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/BinaryTreeLongestConsequtiveSequenceII.cpp.o: ../tree/BinaryTreeLongestConsequtiveSequenceII.cpp
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSingleLinkedListToBST.cpp.o: ../tree/ConvertSingleLinkedListToBST.cpp
-
-CMakeFiles/leetcode_cpp.dir/tree/ConvertSortedArrayToBST.cpp.o: ../tree/ConvertSortedArrayToBST.cpp
 
 CMakeFiles/leetcode_cpp.dir/tree/FlattenBinaryTreeToLinkedList.cpp.o: ../tree/FlattenBinaryTreeToLinkedList.cpp
 
@@ -111,11 +185,21 @@ CMakeFiles/leetcode_cpp.dir/twopointers/3SumClosest.cpp.o: ../twopointers/3SumCl
 
 CMakeFiles/leetcode_cpp.dir/twopointers/4Sum.cpp.o: ../twopointers/4Sum.cpp
 
+CMakeFiles/leetcode_cpp.dir/twopointers/LongestSubstringAtmostKDistinct.cpp.o: ../twopointers/LongestSubstringAtmostKDistinct.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/LongestSubstringWithoutRepeatingChars.cpp.o: ../twopointers/LongestSubstringWithoutRepeatingChars.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MinimumSizeSubarraySum.cpp.o: ../twopointers/MinimumSizeSubarraySum.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/MinimumWindowSubstring.cpp.o: ../twopointers/MinimumWindowSubstring.cpp
+
 CMakeFiles/leetcode_cpp.dir/twopointers/MoveZeros.cpp.o: ../twopointers/MoveZeros.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/PartitionArray.cpp.o: ../twopointers/PartitionArray.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/RainbowSort.cpp.o: ../twopointers/RainbowSort.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/RemoveDupInArray.cpp.o: ../twopointers/RemoveDupInArray.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/SortColors.cpp.o: ../twopointers/SortColors.cpp
 
@@ -124,6 +208,8 @@ CMakeFiles/leetcode_cpp.dir/twopointers/ThreeSum.cpp.o: ../twopointers/ThreeSum.
 CMakeFiles/leetcode_cpp.dir/twopointers/TriangleCount.cpp.o: ../twopointers/TriangleCount.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumClosestTarget.cpp.o: ../twopointers/TwoSumClosestTarget.cpp
+
+CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDataStructure.cpp.o: ../twopointers/TwoSumDataStructure.cpp
 
 CMakeFiles/leetcode_cpp.dir/twopointers/TwoSumDiffEqualsTarget.cpp.o: ../twopointers/TwoSumDiffEqualsTarget.cpp
 

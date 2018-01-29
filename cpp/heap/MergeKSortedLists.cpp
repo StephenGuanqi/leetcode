@@ -76,3 +76,43 @@ public:
 	}
 
 };
+
+
+class Solution2 {
+public:
+	/**
+	 * Divide and Conquer
+	 */
+	ListNode *mergeKLists(vector<ListNode *> &lists) {
+		if (lists.empty())  return nullptr;
+		return mergeKLists(lists, 0, lists.size() - 1);
+	}
+
+private:
+	ListNode *mergeKLists(vector<ListNode*> &lists, int start, int end) {
+		if (end == start)   return lists[start];
+		int mid = start + (end - start) / 2;
+		ListNode *left = mergeKLists(lists, start, mid);
+		ListNode *right = mergeKLists(lists, mid + 1, end);
+		return mergeTwoSortedList(left, right);
+	}
+
+	ListNode *mergeTwoSortedList(ListNode *a, ListNode *b) {
+		ListNode dummy(0);
+		ListNode *tail = &dummy;
+		while (a != nullptr && b != nullptr) {
+			if (a->val < b->val) {
+				tail->next = a;
+				a = a->next;
+			} else {
+				tail->next = b;
+				b = b->next;
+			}
+			tail = tail->next;
+		}
+		if (a != nullptr)   tail->next = a;
+		if (b != nullptr)   tail->next = b;
+		return dummy.next;
+	}
+
+};
