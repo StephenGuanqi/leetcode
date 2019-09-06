@@ -53,7 +53,9 @@ private:
 		return x >= 0 && x < m && y >= 0 && y < n
 		       && !visited[x][y];
 	}
-
+	/**
+	 * we actually don't need four here. Goes from top left to right bottom
+	 */
 	const int diff[4][2] = { {1, 0}, {0, 1}, {-1, 0}, {0, -1} };
 };
 

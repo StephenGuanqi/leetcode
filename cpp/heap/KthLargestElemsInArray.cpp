@@ -114,3 +114,29 @@ private:
 	int heap_size;
 
 };
+
+
+class Solution2 {
+	/**
+	 * nlogk
+	 */
+public:
+	/*
+	 * @param n: An integer
+	 * @param nums: An array
+	 * @return: the Kth largest element
+	 */
+	int kthLargestElement(int k, vector<int> &nums) {
+		// min heap
+		priority_queue<int, vector<int>, greater<int>> q;
+		for (auto num : nums) {
+			if (q.size() < k)
+				q.push(num);
+			else if (q.top() < num) {
+				q.pop();
+				q.push(num);
+			}
+		}
+		return q.top();
+	}
+};

@@ -9,7 +9,7 @@ using namespace std;
 
 class Solution {
 public:
-	vector<vector<int>> combinationSum(vector<int> &candidate, int target) {
+	vector<vector<int>> coeseeembinationSum(vector<int> &candidate, int target) {
 		// sort and eliminate duplicate
 		sort(candidate.begin(), candidate.end());
 		candidate.erase(unique(candidate.begin(), candidate.end()), candidate.end());

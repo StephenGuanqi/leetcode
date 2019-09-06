@@ -18,7 +18,7 @@ public:
 	}
 
 private:
-	// recursion definition: search all combinations set start with combinaiton and put into results
+	// recursion definition: search all combinations set start with combination and put into results
 	void dfs(const vector<int> &nums,
 	         int startIndex,
 	         vector<vector<int>> &results, vector<int> &combination,
